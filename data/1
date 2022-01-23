@@ -1,1 +1,30 @@
-{"description": "Baby Sharks Guild", "image": "https://metadata.babysharksguild.com/images/1.png", "name": "Baby Shark #1", "attributes": [{"trait_type": "STATUS", "value": "Unrevealed"}]}
+{
+	"name": "Baby Shark #1",
+	"description": "the shark world.",
+	"image": "https://metadata.babysharksguild.com/images/1.png",
+	"attributes": [{
+		"trait_type": "accessory",
+		"value": "black_ring"
+	}, {
+		"trait_type": "DNA",
+		"value": "shark"
+	}, {
+		"trait_type": "background",
+		"value": "softone"
+	}, {
+		"trait_type": "body",
+		"value": "black"
+	}, {
+		"trait_type": "clothes",
+		"value": "shirt-blue"
+	}, {
+		"trait_type": "eyes",
+		"value": "laser"
+	}, {
+		"trait_type": "hat",
+		"value": "gude"
+	}, {
+		"trait_type": "mouth",
+		"value": "i"
+	}]
+}
