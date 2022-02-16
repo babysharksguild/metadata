@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #54",
+    "image": "https://metadata.babysharksguild.com/images/54.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "sora"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "purple sweater"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "grin"
+        },
+        {
+            "trait_type": "hat",
+            "value": "sailor hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mastache"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #71",
+    "image": "https://metadata.babysharksguild.com/images/71.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "wakatake"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "sailor"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "smile"
+        },
+        {
+            "trait_type": "hat",
+            "value": "marine cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "zig-zag"
+        }
+    ]
+}
