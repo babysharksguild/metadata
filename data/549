@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #549",
+    "image": "https://metadata.babysharksguild.com/images/549.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "nadeshiko"
+        },
+        {
+            "trait_type": "body",
+            "value": "sohi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "blouse"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "yellow laser"
+        },
+        {
+            "trait_type": "hat",
+            "value": "birdsnest"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "rainbowpuke"
+        }
+    ]
+}
