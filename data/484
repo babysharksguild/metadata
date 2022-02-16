@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #484",
+    "image": "https://metadata.babysharksguild.com/images/484.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "ouchi"
+        },
+        {
+            "trait_type": "body",
+            "value": "asagi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "white overalls"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wink"
+        },
+        {
+            "trait_type": "hat",
+            "value": "coral"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "phoneme o"
+        }
+    ]
+}
