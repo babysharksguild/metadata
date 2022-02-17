@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #654",
+    "image": "https://metadata.babysharksguild.com/images/654.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "aofuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "angel shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "rest"
+        },
+        {
+            "trait_type": "hat",
+            "value": "nursing cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "toothpick"
+        }
+    ]
+}

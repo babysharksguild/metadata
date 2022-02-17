@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #663",
+    "image": "https://metadata.babysharksguild.com/images/663.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "sora"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "v-necked sweater"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "dots"
+        },
+        {
+            "trait_type": "hat",
+            "value": "carrot hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "soul"
+        }
+    ]
+}

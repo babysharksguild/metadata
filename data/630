@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #630",
+    "image": "https://metadata.babysharksguild.com/images/630.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "mizu"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "navy uniform"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star"
+        },
+        {
+            "trait_type": "hat",
+            "value": "tulip"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "white mastache"
+        }
+    ]
+}

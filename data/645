@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #645",
+    "image": "https://metadata.babysharksguild.com/images/645.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "nadeshiko"
+        },
+        {
+            "trait_type": "body",
+            "value": "asagi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bsg T"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "eyebrows"
+        },
+        {
+            "trait_type": "hat",
+            "value": "green ribbons"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "frowning"
+        }
+    ]
+}

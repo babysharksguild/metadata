@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #603",
+    "image": "https://metadata.babysharksguild.com/images/603.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "mizu"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "devil shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "brown octagon"
+        },
+        {
+            "trait_type": "hat",
+            "value": "rabbit hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "horizon"
+        }
+    ]
+}

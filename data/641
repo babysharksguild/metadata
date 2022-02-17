@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #641",
+    "image": "https://metadata.babysharksguild.com/images/641.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "sohi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "brown octagon"
+        },
+        {
+            "trait_type": "hat",
+            "value": "exclamation mark"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "toothpick"
+        }
+    ]
+}

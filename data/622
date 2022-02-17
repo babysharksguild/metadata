@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #622",
+    "image": "https://metadata.babysharksguild.com/images/622.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "purple off-shoulder"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wild"
+        },
+        {
+            "trait_type": "hat",
+            "value": "sunny-side up"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "gold tooth"
+        }
+    ]
+}
