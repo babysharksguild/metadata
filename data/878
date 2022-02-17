@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #878",
+    "image": "https://metadata.babysharksguild.com/images/878.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "black puff-sleeve"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "squid"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mastache"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #802",
+    "image": "https://metadata.babysharksguild.com/images/802.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "sora"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "red kinomono"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "vr goggles"
+        },
+        {
+            "trait_type": "hat",
+            "value": "orange cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "white mastache"
+        }
+    ]
+}

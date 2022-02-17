@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #889",
+    "image": "https://metadata.babysharksguild.com/images/889.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "skull hoodie"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "vr goggles"
+        },
+        {
+            "trait_type": "hat",
+            "value": "banana"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "toothpick"
+        }
+    ]
+}

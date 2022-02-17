@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #917",
+    "image": "https://metadata.babysharksguild.com/images/917.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "nurse costume"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "grin"
+        },
+        {
+            "trait_type": "hat",
+            "value": "sailor hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "hexagon"
+        }
+    ]
+}

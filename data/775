@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #775",
+    "image": "https://metadata.babysharksguild.com/images/775.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "byakuroku"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "alice"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "dots"
+        },
+        {
+            "trait_type": "hat",
+            "value": "bird"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "phoneme o"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #745",
+    "image": "https://metadata.babysharksguild.com/images/745.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "checkered bustier"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "vr goggles"
+        },
+        {
+            "trait_type": "hat",
+            "value": "nursing cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "omega"
+        }
+    ]
+}

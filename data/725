@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #725",
+    "image": "https://metadata.babysharksguild.com/images/725.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bee"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "haert"
+        },
+        {
+            "trait_type": "hat",
+            "value": "rabbit hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "white mastache"
+        }
+    ]
+}

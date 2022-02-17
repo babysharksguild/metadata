@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #816",
+    "image": "https://metadata.babysharksguild.com/images/816.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "nadeshiko"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bsg T"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "pajama cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "gold tooth"
+        }
+    ]
+}

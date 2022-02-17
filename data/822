@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #822",
+    "image": "https://metadata.babysharksguild.com/images/822.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "black overalls"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "eyebrows"
+        },
+        {
+            "trait_type": "hat",
+            "value": "checkered headband"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mischief"
+        }
+    ]
+}

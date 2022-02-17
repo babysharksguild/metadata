@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #948",
+    "image": "https://metadata.babysharksguild.com/images/948.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "angel shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wink"
+        },
+        {
+            "trait_type": "hat",
+            "value": "mouse cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "toothpick"
+        }
+    ]
+}

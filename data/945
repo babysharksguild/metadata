@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #945",
+    "image": "https://metadata.babysharksguild.com/images/945.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "red kinomono"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wild"
+        },
+        {
+            "trait_type": "hat",
+            "value": "cute afuro"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "cheerful"
+        }
+    ]
+}

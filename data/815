@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #815",
+    "image": "https://metadata.babysharksguild.com/images/815.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "momo"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "leopard muffler"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "3D glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "heart crown"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "x"
+        }
+    ]
+}
