@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1766",
+    "image": "https://metadata.babysharksguild.com/images/1766.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "byakuroku"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "angel shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "glare"
+        },
+        {
+            "trait_type": "hat",
+            "value": "nursing cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "omega"
+        }
+    ]
+}

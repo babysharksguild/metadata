@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1193",
+    "image": "https://metadata.babysharksguild.com/images/1193.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "akebono"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "red kinomono"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "manga"
+        },
+        {
+            "trait_type": "hat",
+            "value": "pajama cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "tongue"
+        }
+    ]
+}

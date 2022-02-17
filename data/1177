@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1177",
+    "image": "https://metadata.babysharksguild.com/images/1177.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "nadeshiko"
+        },
+        {
+            "trait_type": "body",
+            "value": "sora"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "strawberrty"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "phoneme eh"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1703",
+    "image": "https://metadata.babysharksguild.com/images/1703.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "sora"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "green fur coat"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "glare"
+        },
+        {
+            "trait_type": "hat",
+            "value": "birdsnest"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "3"
+        }
+    ]
+}

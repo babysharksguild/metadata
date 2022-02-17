@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1844",
+    "image": "https://metadata.babysharksguild.com/images/1844.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "sora"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "black vest"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star"
+        },
+        {
+            "trait_type": "hat",
+            "value": "skull"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mischief"
+        }
+    ]
+}

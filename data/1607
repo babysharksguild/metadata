@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1607",
+    "image": "https://metadata.babysharksguild.com/images/1607.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "pink hoodie"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "grin"
+        },
+        {
+            "trait_type": "hat",
+            "value": "marine cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "gold tooth"
+        }
+    ]
+}

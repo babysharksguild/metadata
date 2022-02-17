@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1257",
+    "image": "https://metadata.babysharksguild.com/images/1257.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "sora"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "eyes"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "x"
+        },
+        {
+            "trait_type": "hat",
+            "value": "black regent"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "zig-zag"
+        }
+    ]
+}

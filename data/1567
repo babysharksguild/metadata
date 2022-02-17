@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1567",
+    "image": "https://metadata.babysharksguild.com/images/1567.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "strawberrty"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "blonde regent"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "phoneme eh"
+        }
+    ]
+}

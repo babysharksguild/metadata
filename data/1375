@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1375",
+    "image": "https://metadata.babysharksguild.com/images/1375.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "angel shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "manga"
+        },
+        {
+            "trait_type": "hat",
+            "value": "squid"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "3"
+        }
+    ]
+}

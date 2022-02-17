@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1349",
+    "image": "https://metadata.babysharksguild.com/images/1349.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "rainbow"
+        },
+        {
+            "trait_type": "body",
+            "value": "aofuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "pink T"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "green origami kabuto"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mastache"
+        }
+    ]
+}

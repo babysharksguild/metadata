@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1696",
+    "image": "https://metadata.babysharksguild.com/images/1696.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "white muffler"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "manga"
+        },
+        {
+            "trait_type": "hat",
+            "value": "red beanie"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "omega"
+        }
+    ]
+}

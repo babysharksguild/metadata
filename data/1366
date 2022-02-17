@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1366",
+    "image": "https://metadata.babysharksguild.com/images/1366.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "mizu"
+        },
+        {
+            "trait_type": "body",
+            "value": "sohi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "egg"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "rest"
+        },
+        {
+            "trait_type": "hat",
+            "value": "straw hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "soul"
+        }
+    ]
+}

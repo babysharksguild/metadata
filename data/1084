@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1084",
+    "image": "https://metadata.babysharksguild.com/images/1084.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "akebono"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "white muffler"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "party glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "cute afuro"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "gold tooth"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1254",
+    "image": "https://metadata.babysharksguild.com/images/1254.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "momo"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bee"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "glare"
+        },
+        {
+            "trait_type": "hat",
+            "value": "sailor hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "frustrated"
+        }
+    ]
+}

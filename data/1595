@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1595",
+    "image": "https://metadata.babysharksguild.com/images/1595.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "akebono"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "yellow kimono"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "flat"
+        },
+        {
+            "trait_type": "hat",
+            "value": "birdsnest"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "grumpy"
+        }
+    ]
+}

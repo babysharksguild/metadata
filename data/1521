@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1521",
+    "image": "https://metadata.babysharksguild.com/images/1521.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "ouchi"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "egg"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "3D glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "question mark"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "omega"
+        }
+    ]
+}

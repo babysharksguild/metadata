@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1963",
+    "image": "https://metadata.babysharksguild.com/images/1963.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "byakuroku"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "hero suit"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "excite"
+        },
+        {
+            "trait_type": "hat",
+            "value": "gray bucket"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "frustrated"
+        }
+    ]
+}

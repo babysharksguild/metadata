@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1678",
+    "image": "https://metadata.babysharksguild.com/images/1678.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "momo"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "blouse"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "exclamation mark"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "tongue"
+        }
+    ]
+}

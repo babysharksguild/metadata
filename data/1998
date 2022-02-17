@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #1998",
+    "image": "https://metadata.babysharksguild.com/images/1998.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "egg"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triple"
+        },
+        {
+            "trait_type": "hat",
+            "value": "gray bucket"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "weary"
+        }
+    ]
+}
