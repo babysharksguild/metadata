@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #2063",
+    "image": "https://metadata.babysharksguild.com/images/2063.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "rainbow"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "brown cardigan"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "excite"
+        },
+        {
+            "trait_type": "hat",
+            "value": "heart crown"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "cheerful"
+        }
+    ]
+}

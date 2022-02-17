@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #2736",
+    "image": "https://metadata.babysharksguild.com/images/2736.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "skull hoodie"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "heart crown"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "hexagon"
+        }
+    ]
+}

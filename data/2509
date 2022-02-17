@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #2509",
+    "image": "https://metadata.babysharksguild.com/images/2509.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "sora"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "purple off-shoulder"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "x"
+        },
+        {
+            "trait_type": "hat",
+            "value": "bee tactile"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "zig-zag"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #2207",
+    "image": "https://metadata.babysharksguild.com/images/2207.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "sohi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "gakuran"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "glare"
+        },
+        {
+            "trait_type": "hat",
+            "value": "grass crown"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        }
+    ]
+}

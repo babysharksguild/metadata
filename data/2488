@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #2488",
+    "image": "https://metadata.babysharksguild.com/images/2488.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "rainbow"
+        },
+        {
+            "trait_type": "body",
+            "value": "aofuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "white T"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wild"
+        },
+        {
+            "trait_type": "hat",
+            "value": "pajama cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "3"
+        }
+    ]
+}

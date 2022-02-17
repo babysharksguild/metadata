@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #2885",
+    "image": "https://metadata.babysharksguild.com/images/2885.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bow tie sweater"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "glare"
+        },
+        {
+            "trait_type": "hat",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "cheerful"
+        }
+    ]
+}

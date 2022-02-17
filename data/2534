@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #2534",
+    "image": "https://metadata.babysharksguild.com/images/2534.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "rainbow"
+        },
+        {
+            "trait_type": "body",
+            "value": "aofuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "black vest"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "brown octagon"
+        },
+        {
+            "trait_type": "hat",
+            "value": "tulip"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "white mastache"
+        }
+    ]
+}
