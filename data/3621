@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3621",
+    "image": "https://metadata.babysharksguild.com/images/3621.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "byakuroku"
+        },
+        {
+            "trait_type": "body",
+            "value": "sohi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "school uniform"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "flat"
+        },
+        {
+            "trait_type": "hat",
+            "value": "nursing cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "frowning"
+        }
+    ]
+}

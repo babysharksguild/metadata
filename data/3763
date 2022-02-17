@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3763",
+    "image": "https://metadata.babysharksguild.com/images/3763.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "akebono"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "snake neck"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "haert"
+        },
+        {
+            "trait_type": "hat",
+            "value": "rage"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "omega"
+        }
+    ]
+}

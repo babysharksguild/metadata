@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3018",
+    "image": "https://metadata.babysharksguild.com/images/3018.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "sora"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "white T"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "party glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "pajama cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "phoneme eh"
+        }
+    ]
+}

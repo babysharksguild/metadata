@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3245",
+    "image": "https://metadata.babysharksguild.com/images/3245.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "sohi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "black bandana"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "party glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "cute afuro"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "x"
+        }
+    ]
+}

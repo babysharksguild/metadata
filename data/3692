@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3692",
+    "image": "https://metadata.babysharksguild.com/images/3692.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "checkered bustier"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "x"
+        },
+        {
+            "trait_type": "hat",
+            "value": "coral"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "tongue"
+        }
+    ]
+}

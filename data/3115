@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3115",
+    "image": "https://metadata.babysharksguild.com/images/3115.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "akebono"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "referee"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "excite"
+        },
+        {
+            "trait_type": "hat",
+            "value": "squid"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "frowning"
+        }
+    ]
+}

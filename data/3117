@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3117",
+    "image": "https://metadata.babysharksguild.com/images/3117.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "sohi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "argyle sweater"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "haert"
+        },
+        {
+            "trait_type": "hat",
+            "value": "black cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "horizon"
+        }
+    ]
+}

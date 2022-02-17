@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3103",
+    "image": "https://metadata.babysharksguild.com/images/3103.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "aofuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "blue bandana"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "excite"
+        },
+        {
+            "trait_type": "hat",
+            "value": "flower crown"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "omega"
+        }
+    ]
+}

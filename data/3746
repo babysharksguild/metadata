@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3746",
+    "image": "https://metadata.babysharksguild.com/images/3746.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "blue stripes"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "drooping eyes"
+        },
+        {
+            "trait_type": "hat",
+            "value": "cute afuro"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "zig-zag"
+        }
+    ]
+}

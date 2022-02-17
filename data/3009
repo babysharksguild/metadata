@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3009",
+    "image": "https://metadata.babysharksguild.com/images/3009.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "snake neck"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "dots"
+        },
+        {
+            "trait_type": "hat",
+            "value": "sunny-side up"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "frowning"
+        }
+    ]
+}

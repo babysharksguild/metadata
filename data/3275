@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3275",
+    "image": "https://metadata.babysharksguild.com/images/3275.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "ouchi"
+        },
+        {
+            "trait_type": "body",
+            "value": "sohi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "formal sweater"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star"
+        },
+        {
+            "trait_type": "hat",
+            "value": "wine headband"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "rainbowpuke"
+        }
+    ]
+}

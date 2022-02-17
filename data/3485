@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3485",
+    "image": "https://metadata.babysharksguild.com/images/3485.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "hero suit"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "drooping eyes"
+        },
+        {
+            "trait_type": "hat",
+            "value": "sparkling"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "frowning"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3616",
+    "image": "https://metadata.babysharksguild.com/images/3616.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "wakatake"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bow tie shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "drooping eyes"
+        },
+        {
+            "trait_type": "hat",
+            "value": "blonde regent"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "zig-zag"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3056",
+    "image": "https://metadata.babysharksguild.com/images/3056.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "nadeshiko"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "red kinomono"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "flat"
+        },
+        {
+            "trait_type": "hat",
+            "value": "pajama cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "cheerful"
+        }
+    ]
+}

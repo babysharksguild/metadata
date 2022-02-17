@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3680",
+    "image": "https://metadata.babysharksguild.com/images/3680.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "white overalls"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "vr goggles"
+        },
+        {
+            "trait_type": "hat",
+            "value": "yellow ribbon"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "phoneme o"
+        }
+    ]
+}

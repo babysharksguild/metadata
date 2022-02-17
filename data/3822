@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3822",
+    "image": "https://metadata.babysharksguild.com/images/3822.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "akebono"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "alice"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "wine headband"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "phoneme o"
+        }
+    ]
+}

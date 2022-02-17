@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3879",
+    "image": "https://metadata.babysharksguild.com/images/3879.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "akebono"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "blue tie shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "admire"
+        },
+        {
+            "trait_type": "hat",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "zig-zag"
+        }
+    ]
+}

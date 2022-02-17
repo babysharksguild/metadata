@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3185",
+    "image": "https://metadata.babysharksguild.com/images/3185.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "akebono"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bsg hoodie"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wild"
+        },
+        {
+            "trait_type": "hat",
+            "value": "flower crown"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "weary"
+        }
+    ]
+}

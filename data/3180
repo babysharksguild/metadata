@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3180",
+    "image": "https://metadata.babysharksguild.com/images/3180.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "nadeshiko"
+        },
+        {
+            "trait_type": "body",
+            "value": "aofuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "black jersey"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "sunny-side up"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mischief"
+        }
+    ]
+}

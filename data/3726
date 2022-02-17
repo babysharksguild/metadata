@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3726",
+    "image": "https://metadata.babysharksguild.com/images/3726.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "black puff-sleeve"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wild"
+        },
+        {
+            "trait_type": "hat",
+            "value": "wine headband"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "3"
+        }
+    ]
+}

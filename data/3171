@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3171",
+    "image": "https://metadata.babysharksguild.com/images/3171.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "akebono"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "brown fur coat"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "blonde regent"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "omega"
+        }
+    ]
+}

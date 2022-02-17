@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3231",
+    "image": "https://metadata.babysharksguild.com/images/3231.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "asagi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "brown checkered"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "manga"
+        },
+        {
+            "trait_type": "hat",
+            "value": "blue origami kabuto"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "cheerful"
+        }
+    ]
+}

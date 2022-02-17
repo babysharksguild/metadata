@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3091",
+    "image": "https://metadata.babysharksguild.com/images/3091.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "aofuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "green fur coat"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "rest"
+        },
+        {
+            "trait_type": "hat",
+            "value": "frustrated"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "grumpy"
+        }
+    ]
+}

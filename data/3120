@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3120",
+    "image": "https://metadata.babysharksguild.com/images/3120.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "ouchi"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "sailor"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "exclamation mark"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "horizon"
+        }
+    ]
+}

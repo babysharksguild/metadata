@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3725",
+    "image": "https://metadata.babysharksguild.com/images/3725.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "brown checkered"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "question mark"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "hamster"
+        }
+    ]
+}

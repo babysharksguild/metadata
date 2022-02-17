@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3142",
+    "image": "https://metadata.babysharksguild.com/images/3142.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "asagi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bow tie shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "haert"
+        },
+        {
+            "trait_type": "hat",
+            "value": "flower crown"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "hamster"
+        }
+    ]
+}

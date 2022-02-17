@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3397",
+    "image": "https://metadata.babysharksguild.com/images/3397.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "carrot"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "admire"
+        },
+        {
+            "trait_type": "hat",
+            "value": "straw hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "horizon"
+        }
+    ]
+}

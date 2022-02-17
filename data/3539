@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3539",
+    "image": "https://metadata.babysharksguild.com/images/3539.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "sohi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "angel shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "brown octagon"
+        },
+        {
+            "trait_type": "hat",
+            "value": "crab"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "soul"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3415",
+    "image": "https://metadata.babysharksguild.com/images/3415.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "sohi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "star T"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "banana"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "frustrated"
+        }
+    ]
+}

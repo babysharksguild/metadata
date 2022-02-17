@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3615",
+    "image": "https://metadata.babysharksguild.com/images/3615.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "nadeshiko"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": " daruma doll"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "grin"
+        },
+        {
+            "trait_type": "hat",
+            "value": "green ribbons"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "weary"
+        }
+    ]
+}

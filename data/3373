@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3373",
+    "image": "https://metadata.babysharksguild.com/images/3373.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "blue stripes"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "party glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "coral"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "frustrated"
+        }
+    ]
+}

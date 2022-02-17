@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3627",
+    "image": "https://metadata.babysharksguild.com/images/3627.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "mizu"
+        },
+        {
+            "trait_type": "body",
+            "value": "aofuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "blue tie shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "manga"
+        },
+        {
+            "trait_type": "hat",
+            "value": "exclamation mark"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "hexagon"
+        }
+    ]
+}

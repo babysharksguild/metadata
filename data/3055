@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3055",
+    "image": "https://metadata.babysharksguild.com/images/3055.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "asagi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "wine off-shoulder"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "party glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "happy"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "rainbowpuke"
+        }
+    ]
+}

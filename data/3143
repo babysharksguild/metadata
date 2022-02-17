@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3143",
+    "image": "https://metadata.babysharksguild.com/images/3143.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "turtleneck"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "phoneme eh"
+        }
+    ]
+}

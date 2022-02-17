@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3733",
+    "image": "https://metadata.babysharksguild.com/images/3733.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "momo"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bee"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Japanese demon"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "rainbowpuke"
+        }
+    ]
+}

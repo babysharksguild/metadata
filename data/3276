@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3276",
+    "image": "https://metadata.babysharksguild.com/images/3276.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "leopard muffler"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "admire"
+        },
+        {
+            "trait_type": "hat",
+            "value": "blonde regent"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "frustrated"
+        }
+    ]
+}

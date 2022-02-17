@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3277",
+    "image": "https://metadata.babysharksguild.com/images/3277.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "plaid shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "strawberry"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "horizon"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3192",
+    "image": "https://metadata.babysharksguild.com/images/3192.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "sailor"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "3D glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "yellow flower"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        }
+    ]
+}

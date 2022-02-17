@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3124",
+    "image": "https://metadata.babysharksguild.com/images/3124.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "aofuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "wine off-shoulder"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "eyebrows"
+        },
+        {
+            "trait_type": "hat",
+            "value": "birdsnest"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "3"
+        }
+    ]
+}

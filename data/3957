@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3957",
+    "image": "https://metadata.babysharksguild.com/images/3957.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "momo"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "flower sleeveless"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "flat"
+        },
+        {
+            "trait_type": "hat",
+            "value": "mouse cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "grumpy"
+        }
+    ]
+}

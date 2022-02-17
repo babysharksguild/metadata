@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3061",
+    "image": "https://metadata.babysharksguild.com/images/3061.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "byakuroku"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "blue sukajan"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "frustrated"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "gold tooth"
+        }
+    ]
+}

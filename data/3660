@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3660",
+    "image": "https://metadata.babysharksguild.com/images/3660.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "byakuroku"
+        },
+        {
+            "trait_type": "body",
+            "value": "akebono"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "blue stripes"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "red beret"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "3"
+        }
+    ]
+}

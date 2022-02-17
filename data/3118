@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3118",
+    "image": "https://metadata.babysharksguild.com/images/3118.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "sora"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "egg"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "smile"
+        },
+        {
+            "trait_type": "hat",
+            "value": "black regent"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "toothpick"
+        }
+    ]
+}

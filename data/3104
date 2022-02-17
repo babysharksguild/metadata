@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3104",
+    "image": "https://metadata.babysharksguild.com/images/3104.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "wakatake"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bsg T"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "party glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "yellow flower"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "tongue"
+        }
+    ]
+}

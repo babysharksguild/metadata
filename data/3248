@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3248",
+    "image": "https://metadata.babysharksguild.com/images/3248.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "mizu"
+        },
+        {
+            "trait_type": "body",
+            "value": "wakatake"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "navy uniform"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star"
+        },
+        {
+            "trait_type": "hat",
+            "value": "leopard hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mastache"
+        }
+    ]
+}

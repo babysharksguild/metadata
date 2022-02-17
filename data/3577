@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3577",
+    "image": "https://metadata.babysharksguild.com/images/3577.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "byakuroku"
+        },
+        {
+            "trait_type": "body",
+            "value": "momo"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "egg"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "eyebrows"
+        },
+        {
+            "trait_type": "hat",
+            "value": "chonmage"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "x"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3462",
+    "image": "https://metadata.babysharksguild.com/images/3462.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "byakuroku"
+        },
+        {
+            "trait_type": "body",
+            "value": "akebono"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "angel shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wink"
+        },
+        {
+            "trait_type": "hat",
+            "value": "squid"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "hamster"
+        }
+    ]
+}

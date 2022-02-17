@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3102",
+    "image": "https://metadata.babysharksguild.com/images/3102.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "byakuroku"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "brown fur coat"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "excite"
+        },
+        {
+            "trait_type": "hat",
+            "value": "bad mood"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mastache"
+        }
+    ]
+}

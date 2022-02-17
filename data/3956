@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3956",
+    "image": "https://metadata.babysharksguild.com/images/3956.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "strawberrty"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triple"
+        },
+        {
+            "trait_type": "hat",
+            "value": "leopard hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        }
+    ]
+}

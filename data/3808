@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3808",
+    "image": "https://metadata.babysharksguild.com/images/3808.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "nadeshiko"
+        },
+        {
+            "trait_type": "body",
+            "value": "wakatake"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bow tie shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "3D glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "pink visor"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mastache"
+        }
+    ]
+}

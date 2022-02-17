@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3293",
+    "image": "https://metadata.babysharksguild.com/images/3293.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "wakatake"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "flower sleeveless"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triple"
+        },
+        {
+            "trait_type": "hat",
+            "value": "grass crown"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "omega"
+        }
+    ]
+}

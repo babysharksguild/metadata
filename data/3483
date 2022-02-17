@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3483",
+    "image": "https://metadata.babysharksguild.com/images/3483.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "sora"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "purple off-shoulder"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "flat"
+        },
+        {
+            "trait_type": "hat",
+            "value": "crab cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "white mastache"
+        }
+    ]
+}

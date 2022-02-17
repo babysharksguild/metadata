@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3913",
+    "image": "https://metadata.babysharksguild.com/images/3913.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bow tie sweater"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "grin"
+        },
+        {
+            "trait_type": "hat",
+            "value": "rabbit hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "rainbowpuke"
+        }
+    ]
+}

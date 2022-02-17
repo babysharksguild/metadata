@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3563",
+    "image": "https://metadata.babysharksguild.com/images/3563.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "nadeshiko"
+        },
+        {
+            "trait_type": "body",
+            "value": "momo"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "eyes"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "dots"
+        },
+        {
+            "trait_type": "hat",
+            "value": "stripe bucket"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "frustrated"
+        }
+    ]
+}

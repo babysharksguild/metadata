@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3346",
+    "image": "https://metadata.babysharksguild.com/images/3346.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "momo"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "pink overalls"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "haert"
+        },
+        {
+            "trait_type": "hat",
+            "value": "rage"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "weary"
+        }
+    ]
+}

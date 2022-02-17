@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3639",
+    "image": "https://metadata.babysharksguild.com/images/3639.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "red jersey"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wild"
+        },
+        {
+            "trait_type": "hat",
+            "value": "black cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "toothpick"
+        }
+    ]
+}

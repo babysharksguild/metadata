@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3610",
+    "image": "https://metadata.babysharksguild.com/images/3610.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "white T"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "party glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "carrot hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "soul"
+        }
+    ]
+}

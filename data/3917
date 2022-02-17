@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3917",
+    "image": "https://metadata.babysharksguild.com/images/3917.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "nadeshiko"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "black vest"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "admire"
+        },
+        {
+            "trait_type": "hat",
+            "value": "black cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "toothpick"
+        }
+    ]
+}

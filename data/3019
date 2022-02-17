@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3019",
+    "image": "https://metadata.babysharksguild.com/images/3019.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "wakatake"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "strawberrty"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triple"
+        },
+        {
+            "trait_type": "hat",
+            "value": "marine cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "hamster"
+        }
+    ]
+}

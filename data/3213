@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3213",
+    "image": "https://metadata.babysharksguild.com/images/3213.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "nadeshiko"
+        },
+        {
+            "trait_type": "body",
+            "value": "sohi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "black puff-sleeve"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star"
+        },
+        {
+            "trait_type": "hat",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "x"
+        }
+    ]
+}

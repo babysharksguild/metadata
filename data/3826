@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3826",
+    "image": "https://metadata.babysharksguild.com/images/3826.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "sora"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "plaid shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "vr goggles"
+        },
+        {
+            "trait_type": "hat",
+            "value": "pajama cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "3"
+        }
+    ]
+}

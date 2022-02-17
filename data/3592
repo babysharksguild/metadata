@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3592",
+    "image": "https://metadata.babysharksguild.com/images/3592.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "asagi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bsg T"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "brown octagon"
+        },
+        {
+            "trait_type": "hat",
+            "value": "black regent"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "weary"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3132",
+    "image": "https://metadata.babysharksguild.com/images/3132.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "wakatake"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "rock hoodie"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "star tactile"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "phoneme o"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #3359",
+    "image": "https://metadata.babysharksguild.com/images/3359.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "ouchi"
+        },
+        {
+            "trait_type": "body",
+            "value": "sohi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": " daruma doll"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "grin"
+        },
+        {
+            "trait_type": "hat",
+            "value": "nursing cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "white mastache"
+        }
+    ]
+}
