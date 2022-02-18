@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue tie shirt"
+            "value": "gray jacket"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "happy"
+            "value": "shell crown"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "toothpick"
         }
     ]
 }

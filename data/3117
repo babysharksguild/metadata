@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle sweater"
+            "value": "strawberrty"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "black cap"
+            "value": "frustrated"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "cheerful"
         }
     ]
 }

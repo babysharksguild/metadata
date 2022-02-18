@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sleeveless"
+            "value": "brown checkered"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "grass crown"
+            "value": "rage"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "zig-zag"
         }
     ]
 }

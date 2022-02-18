@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "plaid shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "gray bucket"
+            "value": "stripe bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "hexagon"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white muffler"
+            "value": "blouse"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "coral"
+            "value": "sailor hat"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "3"
         }
     ]
 }

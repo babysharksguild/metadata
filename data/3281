@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red sukajan"
+            "value": "argyle vest"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "Japanese demon"
+            "value": "black mane"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "phoneme o"
         }
     ]
 }

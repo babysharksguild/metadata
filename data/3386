@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "formal sweater"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "green origami kabuto"
+            "value": "checkered headband"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "tongue"
         }
     ]
 }

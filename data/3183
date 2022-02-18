@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "devil shirt"
+            "value": "red sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "ribbon headband"
+            "value": "blue ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "frowning"
         }
     ]
 }

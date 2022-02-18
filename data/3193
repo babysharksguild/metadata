@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink cardigan"
+            "value": "hero suit"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "nursing cap"
+            "value": "tulip"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "hexagon"
         }
     ]
 }

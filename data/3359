@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "nursing cap"
+            "value": "Japanese demon"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "frowning"
         }
     ]
 }

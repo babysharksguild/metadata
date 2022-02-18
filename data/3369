@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard vest"
+            "value": "blouse"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "maid headband"
+            "value": "marine cap"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "hamster"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard vest"
+            "value": "brown cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "yellow ribbon"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "horizon"
         }
     ]
 }

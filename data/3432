@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white overalls"
+            "value": "leopard vest"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "rage"
+            "value": "birdsnest"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "smirking"
         }
     ]
 }

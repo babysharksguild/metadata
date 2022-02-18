@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown cardigan"
+            "value": "bow tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "heart crown"
+            "value": "cute afuro"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "hexagon"
         }
     ]
 }

@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue sukajan"
+            "value": "red jersey"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "coral"
+            "value": "banana"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "zig-zag"
         }
     ]
 }

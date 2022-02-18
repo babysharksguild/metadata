@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "referee"
+            "value": "turtleneck"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "mouse cap"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "mastache"
         }
     ]
 }

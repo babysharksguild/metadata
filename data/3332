@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "nurse costume"
+            "value": "snake neck"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "green ribbons"
+            "value": "pirate hat"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "grumpy"
         }
     ]
 }

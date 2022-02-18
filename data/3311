@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red jersey"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "stripe bucket"
+            "value": "red beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "rainbowpuke"
         }
     ]
 }

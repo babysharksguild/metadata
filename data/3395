@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "alice"
+            "value": "checkered bustier"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "strawberry"
+            "value": "carrot hat"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "phoneme eh"
         }
     ]
 }

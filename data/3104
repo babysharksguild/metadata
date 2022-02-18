@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg T"
+            "value": "leopard muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "yellow flower"
+            "value": "blue ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "smirking"
         }
     ]
 }

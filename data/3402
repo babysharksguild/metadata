@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "referee"
+            "value": "cream vest"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "brown hat"
+            "value": "carrot hat"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "phoneme eh"
         }
     ]
 }

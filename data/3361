@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "nurse costume"
+            "value": "formal sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "leopard hat"
+            "value": "surprised"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "weary"
         }
     ]
 }

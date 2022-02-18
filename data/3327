@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "hero suit"
+            "value": "rock hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "black cap"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "hexagon"
         }
     ]
 }

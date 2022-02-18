@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "angel shirt"
+            "value": "gakuran"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "sailor hat"
+            "value": "mouse cap"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "hexagon"
         }
     ]
 }

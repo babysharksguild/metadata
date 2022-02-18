@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "blue kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "green ribbons"
+            "value": "heart crown"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "frowning"
         }
     ]
 }

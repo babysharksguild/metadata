@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard vest"
+            "value": "leopard muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "heart crown"
+            "value": "happy"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "rainbowpuke"
         }
     ]
 }

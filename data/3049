@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "cream vest"
+            "value": "blue tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "gray bucket"
+            "value": "strawberry"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "horizon"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "sailor"
+            "value": "navy uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "squid"
+            "value": "red beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "phoneme eh"
         }
     ]
 }

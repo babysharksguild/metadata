@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie shirt"
+            "value": "nurse costume"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "grin"
         },
         {
             "trait_type": "hat",
-            "value": "gray bucket"
+            "value": "blue mane"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "frustrated"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "star T"
+            "value": "red jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "chonmage"
+            "value": "nursing cap"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "weary"
         }
     ]
 }

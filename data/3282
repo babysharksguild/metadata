@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,11 +16,11 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sleeveless"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
@@ -28,7 +28,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "hamster"
         }
     ]
 }

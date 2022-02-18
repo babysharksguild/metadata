@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "sailor"
+            "value": "turtleneck"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "exclamation mark"
+            "value": "checkered headband"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "tongue"
         }
     ]
 }

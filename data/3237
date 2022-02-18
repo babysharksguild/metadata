@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "referee"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "pajama cap"
+            "value": "green origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "gold tooth"
         }
     ]
 }

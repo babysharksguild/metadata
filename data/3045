@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "tiger"
+            "value": "argyle sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "Japanese demon"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "cheerful"
         }
     ]
 }

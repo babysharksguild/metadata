@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -20,15 +20,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "sailor hat"
+            "value": "bad mood"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "smirking"
         }
     ]
 }

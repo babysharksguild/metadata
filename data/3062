@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "turtleneck"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "pink visor"
+            "value": "omelet"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "omega"
         }
     ]
 }

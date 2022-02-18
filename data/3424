@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -20,15 +20,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "wine headband"
+            "value": "marine cap"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "3"
         }
     ]
 }

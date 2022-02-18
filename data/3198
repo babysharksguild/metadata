@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "formal sweater"
+            "value": "bee"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "yellow flower"
+            "value": "frustrated"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "toothpick"
         }
     ]
 }

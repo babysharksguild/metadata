@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "argyle sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "devil hornes"
+            "value": "red beret"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "hexagon"
         }
     ]
 }

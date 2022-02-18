@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "gakuran"
+            "value": "wine off-shoulder"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "bird"
+            "value": "pirate hat"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "hexagon"
         }
     ]
 }

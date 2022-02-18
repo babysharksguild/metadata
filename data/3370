@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "checkered bustier"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "sailor hat"
+            "value": "red origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "weary"
         }
     ]
 }

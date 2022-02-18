@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle vest"
+            "value": "leopard vest"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "blue ribbon"
+            "value": "sailor hat"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "toothpick"
         }
     ]
 }

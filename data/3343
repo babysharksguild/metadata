@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue bandana"
+            "value": "blouse"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "bad mood"
+            "value": "surprised"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "3"
         }
     ]
 }

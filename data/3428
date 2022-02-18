@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -20,15 +20,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "pirate hat"
+            "value": "white hat"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "soul"
         }
     ]
 }

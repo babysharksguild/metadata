@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle sweater"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "carrot hat"
+            "value": "coral"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "phoneme eh"
         }
     ]
 }

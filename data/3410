@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue bandana"
+            "value": "sailor"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "bee tactile"
+            "value": "carrot hat"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "rainbowpuke"
         }
     ]
 }

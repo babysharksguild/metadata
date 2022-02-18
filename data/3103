@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue bandana"
+            "value": "white overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "flower crown"
+            "value": "cherry"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "phoneme eh"
         }
     ]
 }

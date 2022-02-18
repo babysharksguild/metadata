@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "star T"
+            "value": "brown cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "green origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "gold tooth"
         }
     ]
 }

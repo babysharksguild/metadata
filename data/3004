@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black puff-sleeve"
+            "value": "red sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "strawberry"
+            "value": "maid headband"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "smirking"
         }
     ]
 }

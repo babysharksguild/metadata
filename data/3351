@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "blue sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "birdsnest"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "rainbowpuke"
         }
     ]
 }

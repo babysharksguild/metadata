@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "rock hoodie"
+            "value": "alice"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "marine cap"
+            "value": "bee tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "3"
         }
     ]
 }

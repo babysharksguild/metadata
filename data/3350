@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white overalls"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "happy"
+            "value": "ribbon headband"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "hamster"
         }
     ]
 }

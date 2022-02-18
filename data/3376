@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "snake neck"
+            "value": "green fur coat"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "marine cap"
+            "value": "black mane"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "phoneme o"
         }
     ]
 }

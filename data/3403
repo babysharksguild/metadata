@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown cardigan"
+            "value": "black jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "red beanie"
+            "value": "rage"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "hexagon"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue bandana"
+            "value": "blue kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "pink visor"
+            "value": "brown checkered hat"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "frustrated"
         }
     ]
 }

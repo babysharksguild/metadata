@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "pink overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "pink visor"
+            "value": "black mane"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "grumpy"
         }
     ]
 }

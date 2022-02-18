@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "carrot"
+            "value": "white overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "green origami kabuto"
+            "value": "sunny-side up"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "grumpy"
         }
     ]
 }

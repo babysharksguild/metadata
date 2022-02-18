@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green fur coat"
+            "value": "tiger"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "wine headband"
+            "value": "pajama cap"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "smirking"
         }
     ]
 }

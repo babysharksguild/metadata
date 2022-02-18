@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "mouse cap"
+            "value": "pink visor"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "smirking"
         }
     ]
 }

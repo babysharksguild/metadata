@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue kimono"
+            "value": "pink T"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "cherry"
+            "value": "leopard hat"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "mastache"
         }
     ]
 }

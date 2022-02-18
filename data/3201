@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "alice"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "cherry"
+            "value": "blue origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "phoneme eh"
         }
     ]
 }

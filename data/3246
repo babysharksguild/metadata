@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink overalls"
+            "value": "orange stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "white hat"
+            "value": "black mane"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "toothpick"
         }
     ]
 }

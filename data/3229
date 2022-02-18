@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "alice"
+            "value": "black vest"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "leopard beret"
+            "value": "orange cap"
         },
         {
             "trait_type": "mouth",

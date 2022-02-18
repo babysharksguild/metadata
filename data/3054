@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "hero suit"
+            "value": "green dress"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "shell crown"
+            "value": "pirate hat"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "toothpick"
         }
     ]
 }

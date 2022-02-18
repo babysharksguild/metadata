@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sleeveless"
+            "value": "bow tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "blue ribbon"
+            "value": "nursing cap"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "3"
         }
     ]
 }

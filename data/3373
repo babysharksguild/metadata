@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue stripes"
+            "value": "bow tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "coral"
+            "value": "grass crown"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "frowning"
         }
     ]
 }

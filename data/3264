@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "checkered bustier"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "straw hat"
+            "value": "rabbit hat"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "gold tooth"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "yellow kimono"
+            "value": "flower sleeveless"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "apple"
+            "value": "panic"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "rainbowpuke"
         }
     ]
 }

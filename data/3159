@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "devil shirt"
+            "value": "black vest"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "bird"
+            "value": "pajama cap"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "frustrated"
         }
     ]
 }

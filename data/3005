@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "school uniform"
+            "value": "green fur coat"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "blue beanie"
+            "value": "heart crown"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "gold tooth"
         }
     ]
 }

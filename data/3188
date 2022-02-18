@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "tiger"
+            "value": "leopard muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "apple"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "hexagon"
         }
     ]
 }

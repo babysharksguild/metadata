@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "nurse costume"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "pink visor"
+            "value": "orange cap"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "white mastache"
         }
     ]
 }

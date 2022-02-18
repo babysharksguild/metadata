@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown cardigan"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "wine headband"
+            "value": "panic"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "white mastache"
         }
     ]
 }

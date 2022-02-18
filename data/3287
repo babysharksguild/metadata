@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sweater"
+            "value": "angel shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "brown checkered hat"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",

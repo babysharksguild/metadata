@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "egg"
+            "value": "salopette"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "stripe bucket"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",

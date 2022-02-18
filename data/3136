@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green fur coat"
+            "value": "gray jacket"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "mouse cap"
+            "value": "red beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "hexagon"
         }
     ]
 }

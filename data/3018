@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white T"
+            "value": "salopette"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "pajama cap"
+            "value": "wine headband"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "mastache"
         }
     ]
 }

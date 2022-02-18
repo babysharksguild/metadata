@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "snake neck"
+            "value": "black jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "wine headband"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "toothpick"
         }
     ]
 }

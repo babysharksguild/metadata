@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink overalls"
+            "value": "plaid shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "grin"
         },
         {
             "trait_type": "hat",
-            "value": "straw hat"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "mastache"
         }
     ]
 }

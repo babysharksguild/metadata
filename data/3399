@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "turtleneck"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "shell crown"
+            "value": "skull"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "white mastache"
         }
     ]
 }

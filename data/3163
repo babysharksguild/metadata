@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "devil shirt"
+            "value": "checkered bustier"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "red beret"
+            "value": "blue beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "cheerful"
         }
     ]
 }

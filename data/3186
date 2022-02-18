@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "tiger"
+            "value": "blue hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "rabbit hat"
+            "value": "black cap"
         },
         {
             "trait_type": "mouth",

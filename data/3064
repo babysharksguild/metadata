@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "snake neck"
+            "value": "school uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "red beret"
+            "value": "yellow flower"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "tongue"
         }
     ]
 }

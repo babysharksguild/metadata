@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black vest"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "tulip"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "toothpick"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue stripes"
+            "value": "gray jacket"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "leopard hat"
+            "value": "straw hat"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "mastache"
         }
     ]
 }

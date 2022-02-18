@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown cardigan"
+            "value": "rock hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "red beret"
+            "value": "bad mood"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "smirking"
         }
     ]
 }

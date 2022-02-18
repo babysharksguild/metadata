@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue stripes"
+            "value": "plaid shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "Japanese demon"
+            "value": "white hat"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "x"
         }
     ]
 }

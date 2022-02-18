@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "cream"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue stripes"
+            "value": "blue hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "nursing cap"
+            "value": "yellow flower"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "mischief"
         }
     ]
 }

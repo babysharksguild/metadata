@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "green dress"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "blonde regent"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "smile"
         }
     ]
 }

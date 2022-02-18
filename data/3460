@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "nurse costume"
+            "value": "star T"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "banana"
+            "value": "maid headband"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "cheerful"
         }
     ]
 }

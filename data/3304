@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sweater"
+            "value": "orange stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "leopard hat"
+            "value": "yellow ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "horizon"
         }
     ]
 }

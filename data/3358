@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "salopette"
+            "value": "school uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "sailor hat"
+            "value": "red mane"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "phoneme eh"
         }
     ]
 }

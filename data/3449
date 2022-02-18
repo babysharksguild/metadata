@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "strawberrty"
+            "value": "leopard muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "cute afuro"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "toothpick"
         }
     ]
 }

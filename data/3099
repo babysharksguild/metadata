@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink T"
+            "value": "cream vest"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "squid"
+            "value": "sunny-side up"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "soul"
         }
     ]
 }

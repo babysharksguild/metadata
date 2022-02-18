@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "plaid shirt"
+            "value": "star T"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "flower crown"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "omega"
         }
     ]
 }

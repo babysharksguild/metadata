@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg hoodie"
+            "value": "yellow kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "flower crown"
+            "value": "carrot hat"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "smile"
         }
     ]
 }

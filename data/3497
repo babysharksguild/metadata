@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "leopard vest"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "tulip"
+            "value": "sailor hat"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "smile"
         }
     ]
 }

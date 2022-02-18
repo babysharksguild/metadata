@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green fur coat"
+            "value": "red kinomono"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "sparkling"
+            "value": "nursing cap"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "smirking"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue shirt"
+            "value": "rock hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "leopard hat"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "phoneme o"
         }
     ]
 }

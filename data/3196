@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "formal sweater"
+            "value": "egg"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "exclamation mark"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "soul"
         }
     ]
 }

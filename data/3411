@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white muffler"
+            "value": "brown checkered"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "shell crown"
+            "value": "crab"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "toothpick"
         }
     ]
 }

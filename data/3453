@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie sweater"
+            "value": "snake neck"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "checkered headband"
+            "value": "straw hat"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "phoneme eh"
         }
     ]
 }

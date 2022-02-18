@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown checkered"
+            "value": "pink T"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "black regent"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "white mastache"
         }
     ]
 }

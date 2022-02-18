@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white T"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "stripe bucket"
+            "value": "yellow ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "weary"
         }
     ]
 }

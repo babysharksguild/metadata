@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg T"
+            "value": "yellow kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "coral"
+            "value": "stripe bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "tongue"
         }
     ]
 }

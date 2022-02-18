@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "sailor"
+            "value": "tiger"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "ribbon headband"
+            "value": "happy"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "grumpy"
         }
     ]
 }

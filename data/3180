@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black jersey"
+            "value": "formal sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "sunny-side up"
+            "value": "mouse cap"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "smile"
         }
     ]
 }

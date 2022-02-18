@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "tiger"
+            "value": "blue kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "grin"
         },
         {
             "trait_type": "hat",
-            "value": "rabbit hat"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "frowning"
         }
     ]
 }

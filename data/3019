@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "strawberrty"
+            "value": "argyle sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "marine cap"
+            "value": "cherry"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "cheerful"
         }
     ]
 }

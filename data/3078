@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue stripes"
+            "value": "egg"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "bad mood"
+            "value": "tulip"
         },
         {
             "trait_type": "mouth",

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle sweater"
+            "value": "red sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "green origami kabuto"
+            "value": "panic"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "horizon"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "checkered bustier"
+            "value": "red jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "chonmage"
+            "value": "shell crown"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "horizon"
         }
     ]
 }

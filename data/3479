@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "formal sweater"
+            "value": "brown checkered"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "ribbon headband"
+            "value": "red origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "zig-zag"
         }
     ]
 }

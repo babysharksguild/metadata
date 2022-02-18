@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "checkered bustier"
+            "value": "white overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "crab"
+            "value": "ribbon headband"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "white mastache"
         }
     ]
 }

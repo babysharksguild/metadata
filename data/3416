@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "devil shirt"
+            "value": "brown checkered"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "shell crown"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "phoneme o"
         }
     ]
 }

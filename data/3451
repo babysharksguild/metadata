@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie sweater"
+            "value": "egg"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "yellow ribbon"
+            "value": "exclamation mark"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "tongue"
         }
     ]
 }

@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "argyle vest"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "nursing cap"
+            "value": "devil hornes"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "frowning"
         }
     ]
 }

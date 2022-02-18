@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "school uniform"
+            "value": "v-necked sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "wine headband"
+            "value": "straw hat"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "frustrated"
         }
     ]
 }

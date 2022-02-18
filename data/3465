@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown checkered"
+            "value": "flower sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "pink ribbon"
+            "value": "mouse cap"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "white mastache"
         }
     ]
 }

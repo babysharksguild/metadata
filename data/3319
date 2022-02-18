@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "wine off-shoulder"
+            "value": "nurse costume"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "happy"
+            "value": "cute afuro"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "mastache"
         }
     ]
 }

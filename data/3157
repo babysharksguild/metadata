@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sleeveless"
+            "value": "green dress"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "chonmage"
+            "value": "bad mood"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "frowning"
         }
     ]
 }

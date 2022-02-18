@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "wine off-shoulder"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "yellow flower"
+            "value": "sparkling"
         },
         {
             "trait_type": "mouth",

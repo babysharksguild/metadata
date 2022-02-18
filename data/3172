@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black jersey"
+            "value": "flower sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "yellow ribbon"
+            "value": "blue ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "toothpick"
         }
     ]
 }

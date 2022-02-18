@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "formal sweater"
+            "value": "pink hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "yellow flower"
+            "value": "birdsnest"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "frustrated"
         }
     ]
 }

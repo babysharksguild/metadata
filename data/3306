@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue dress"
+            "value": "blue kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "pink visor"
+            "value": "black mane"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "soul"
         }
     ]
 }

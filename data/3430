@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink overalls"
+            "value": "green fur coat"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "yellow flower"
+            "value": "white mane"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "soul"
         }
     ]
 }

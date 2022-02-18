@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue tie shirt"
+            "value": "checkered bustier"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "exclamation mark"
+            "value": "apple"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "frustrated"
         }
     ]
 }

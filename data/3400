@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "navy uniform"
+            "value": "sailor"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "happy"
+            "value": "pink ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "frowning"
         }
     ]
 }

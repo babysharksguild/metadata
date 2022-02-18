@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple off-shoulder"
+            "value": "hero suit"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "crab cap"
+            "value": "rage"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "smile"
         }
     ]
 }

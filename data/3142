@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie shirt"
+            "value": "checkered bustier"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "flower crown"
+            "value": "heart crown"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "3"
         }
     ]
 }

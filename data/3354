@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "alice"
+            "value": "white T"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "black regent"
+            "value": "rabbit hat"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "frustrated"
         }
     ]
 }

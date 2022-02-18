@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red kinomono"
+            "value": "gakuran"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "blonde regent"
+            "value": "orange cap"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "weary"
         }
     ]
 }

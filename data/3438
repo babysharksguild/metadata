@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "carrot"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "pink visor"
+            "value": "leopard hat"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "phoneme o"
         }
     ]
 }

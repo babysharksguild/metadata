@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue sukajan"
+            "value": "bow tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "red beanie"
+            "value": "leopard beret"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "cheerful"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red jersey"
+            "value": "leopard muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "flower crown"
+            "value": "nursing cap"
         },
         {
             "trait_type": "mouth",

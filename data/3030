@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green fur coat"
+            "value": "red sukajan"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "sunny-side up"
+            "value": "black mane"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "grumpy"
         }
     ]
 }

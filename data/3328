@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink T"
+            "value": "pink overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "exclamation mark"
+            "value": "strawberry"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "hexagon"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red kinomono"
+            "value": "purple sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "banana"
+            "value": "squid"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "rainbowpuke"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple sweater"
+            "value": "orange stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "grass crown"
+            "value": "crab cap"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "white mastache"
         }
     ]
 }

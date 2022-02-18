@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue dress"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "chonmage"
+            "value": "bad mood"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "frustrated"
         }
     ]
 }

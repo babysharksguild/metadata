@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue dress"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "grin"
         },
         {
             "trait_type": "hat",
-            "value": "maid headband"
+            "value": "bad mood"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "smirking"
         }
     ]
 }

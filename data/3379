@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white T"
+            "value": "wine off-shoulder"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "surprised"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "phoneme eh"
         }
     ]
 }

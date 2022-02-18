@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "cream"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "black overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "tulip"
+            "value": "star tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "phoneme o"
         }
     ]
 }

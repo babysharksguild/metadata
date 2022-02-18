@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "gray jacket"
+            "value": "nurse costume"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "wine headband"
+            "value": "heart crown"
         },
         {
             "trait_type": "mouth",

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black puff-sleeve"
+            "value": "v-necked sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "white mane"
+            "value": "star tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "soul"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle sweater"
+            "value": "egg"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "yellow ribbon"
+            "value": "maid headband"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "frowning"
         }
     ]
 }

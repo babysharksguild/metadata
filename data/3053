@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "yellow kimono"
+            "value": "gray jacket"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "bird"
+            "value": "bad mood"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "hamster"
         }
     ]
 }

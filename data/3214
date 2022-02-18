@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -20,15 +20,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "straw hat"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "hamster"
         }
     ]
 }

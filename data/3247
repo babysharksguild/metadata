@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "wine off-shoulder"
+            "value": "bsg T"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "surprised"
+            "value": "black cap"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "hexagon"
         }
     ]
 }

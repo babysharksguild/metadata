@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "yellow kimono"
+            "value": "gakuran"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "strawberry"
+            "value": "cute afuro"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "rainbowpuke"
         }
     ]
 }

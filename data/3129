@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "navy uniform"
+            "value": "pink overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "stripe bucket"
+            "value": "bee tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "toothpick"
         }
     ]
 }

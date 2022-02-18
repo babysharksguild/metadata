@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle sweater"
+            "value": "pink hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "stripe bucket"
+            "value": "crab cap"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "grumpy"
         }
     ]
 }

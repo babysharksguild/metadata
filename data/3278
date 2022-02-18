@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "salopette"
+            "value": "blue bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "apple"
+            "value": "crab cap"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "mastache"
         }
     ]
 }

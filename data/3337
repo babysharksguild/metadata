@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green fur coat"
+            "value": "gakuran"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "leopard beret"
+            "value": "red mane"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "white mastache"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black bandana"
+            "value": "red sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "skull"
+            "value": "red origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "frustrated"
         }
     ]
 }

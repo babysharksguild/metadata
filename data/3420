@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "navy uniform"
+            "value": "blouse"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "crab cap"
+            "value": "yellow flower"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "white mastache"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "rock hoodie"
+            "value": "yellow kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "shell crown"
+            "value": "orange cap"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "hamster"
         }
     ]
 }

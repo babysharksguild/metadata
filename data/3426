@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green dress"
+            "value": "hero suit"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "crab cap"
+            "value": "orange cap"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "weary"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie shirt"
+            "value": "purple sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "cherry"
+            "value": "pajama cap"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "horizon"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue bandana"
+            "value": "school uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "star tactile"
+            "value": "wine headband"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "omega"
         }
     ]
 }

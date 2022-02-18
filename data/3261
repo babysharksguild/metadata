@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sweater"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "shell crown"
+            "value": "green origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "white mastache"
         }
     ]
 }

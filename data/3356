@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "yellow kimono"
+            "value": "strawberrty"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "sparkling"
+            "value": "yellow ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "mastache"
         }
     ]
 }

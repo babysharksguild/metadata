@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle vest"
+            "value": "bsg T"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "marine cap"
+            "value": "yellow flower"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "rainbowpuke"
         }
     ]
 }

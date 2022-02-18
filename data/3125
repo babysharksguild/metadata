@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "tiger"
+            "value": "checkered bustier"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "bad mood"
+            "value": "bee tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "toothpick"
         }
     ]
 }

@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black jersey"
+            "value": "rock hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "cherry"
+            "value": "pink ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "mischief"
         }
     ]
 }

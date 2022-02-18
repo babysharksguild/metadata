@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "angel shirt"
+            "value": "white T"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "bird"
+            "value": "red beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "toothpick"
         }
     ]
 }

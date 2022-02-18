@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "gray jacket"
+            "value": "red sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "grass crown"
+            "value": "exclamation mark"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "phoneme o"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink T"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "marine cap"
+            "value": "sunny-side up"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "rainbowpuke"
         }
     ]
 }

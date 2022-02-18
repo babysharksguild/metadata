@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "plaid shirt"
+            "value": "yellow kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "brown checkered hat"
+            "value": "marine cap"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "rainbowpuke"
         }
     ]
 }

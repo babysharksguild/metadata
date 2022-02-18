@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink T"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "blue beanie"
+            "value": "shell crown"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "phoneme o"
         }
     ]
 }

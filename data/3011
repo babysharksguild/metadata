@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "salopette"
+            "value": "bee"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "flower crown"
+            "value": "leopard hat"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "weary"
         }
     ]
 }

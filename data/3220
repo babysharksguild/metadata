@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "school uniform"
+            "value": "checkered bustier"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "white hat"
+            "value": "ribbon headband"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "smirking"
         }
     ]
 }

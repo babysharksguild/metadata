@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "wine off-shoulder"
+            "value": "v-necked sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "happy"
+            "value": "crab cap"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "zig-zag"
         }
     ]
 }

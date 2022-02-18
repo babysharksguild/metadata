@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "bee tactile"
+            "value": "blue beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "zig-zag"
         }
     ]
 }

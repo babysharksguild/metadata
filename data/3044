@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black jersey"
+            "value": "leopard vest"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "nursing cap"
+            "value": "flower crown"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "zig-zag"
         }
     ]
 }

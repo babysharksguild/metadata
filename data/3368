@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "alice"
+            "value": "purple off-shoulder"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "gray bucket"
+            "value": "panic"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "smile"
         }
     ]
 }

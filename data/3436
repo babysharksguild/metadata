@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown checkered"
+            "value": "wine off-shoulder"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "skull"
+            "value": "blue origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "tongue"
         }
     ]
 }

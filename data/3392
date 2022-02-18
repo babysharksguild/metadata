@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "blue kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "tulip"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "3"
         }
     ]
 }

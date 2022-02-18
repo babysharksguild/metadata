@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard muffler"
+            "value": "purple sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "cherry"
+            "value": "bad mood"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "x"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "cream vest"
+            "value": "brown checkered"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "rage"
+            "value": "leopard beret"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "weary"
         }
     ]
 }

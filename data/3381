@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "mouse cap"
+            "value": "brown checkered hat"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "smile"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "egg"
+            "value": "blouse"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "white mane"
+            "value": "stripe bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "gold tooth"
         }
     ]
 }

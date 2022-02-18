@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red jersey"
+            "value": "school uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "tulip"
+            "value": "bird"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "phoneme eh"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg T"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "blue beanie"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "toothpick"
         }
     ]
 }

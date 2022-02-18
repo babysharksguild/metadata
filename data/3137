@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "star T"
+            "value": "blouse"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "sailor hat"
+            "value": "birdsnest"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "frowning"
         }
     ]
 }

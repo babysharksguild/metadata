@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red sukajan"
+            "value": "salopette"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "yellow flower"
+            "value": "pajama cap"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "phoneme o"
         }
     ]
 }

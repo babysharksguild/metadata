@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "checkered bustier"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "blue ribbon"
+            "value": "skull"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "soul"
         }
     ]
 }

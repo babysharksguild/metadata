@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "turtleneck"
+            "value": "red jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "squid"
+            "value": "shell crown"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "smirking"
         }
     ]
 }

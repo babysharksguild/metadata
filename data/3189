@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "blue dress"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "red beanie"
+            "value": "apple"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "soul"
         }
     ]
 }

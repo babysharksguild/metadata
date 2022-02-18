@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "v-necked sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "coral"
+            "value": "leopard hat"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "tongue"
         }
     ]
 }

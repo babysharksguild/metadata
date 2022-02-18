@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "purple sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "white mane"
+            "value": "birdsnest"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "phoneme eh"
         }
     ]
 }

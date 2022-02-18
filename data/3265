@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black bandana"
+            "value": "yellow kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "sunny-side up"
+            "value": "pirate hat"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "omega"
         }
     ]
 }

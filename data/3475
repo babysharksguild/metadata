@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "star T"
+            "value": "black bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "bee tactile"
+            "value": "blonde regent"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "white mastache"
         }
     ]
 }

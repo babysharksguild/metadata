@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -20,15 +20,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "question mark"
+            "value": "bee tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "frustrated"
         }
     ]
 }

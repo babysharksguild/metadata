@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg T"
+            "value": "tiger"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "exclamation mark"
+            "value": "tulip"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "frustrated"
         }
     ]
 }

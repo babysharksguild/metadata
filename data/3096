@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard muffler"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "stripe bucket"
+            "value": "mouse cap"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "weary"
         }
     ]
 }

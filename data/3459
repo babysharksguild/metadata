@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "strawberrty"
+            "value": "black jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "brown checkered hat"
+            "value": "green origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "x"
         }
     ]
 }

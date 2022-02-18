@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white overalls"
+            "value": "alice"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "exclamation mark"
+            "value": "yellow flower"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "frowning"
         }
     ]
 }

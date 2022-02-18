@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "formal sweater"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "bird"
+            "value": "black cap"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "toothpick"
         }
     ]
 }

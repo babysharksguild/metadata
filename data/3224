@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue sukajan"
+            "value": "star T"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "grass crown"
+            "value": "tulip"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "weary"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "salopette"
+            "value": "egg"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "carrot hat"
+            "value": "rage"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "grumpy"
         }
     ]
 }

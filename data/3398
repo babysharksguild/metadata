@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue stripes"
+            "value": "blue sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "banana"
+            "value": "grass crown"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "phoneme o"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie sweater"
+            "value": "brown fur coat"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "coral"
+            "value": "pirate hat"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "3"
         }
     ]
 }

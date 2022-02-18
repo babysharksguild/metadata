@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "sailor"
+            "value": "flower sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "yellow flower"
+            "value": "rabbit hat"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "white mastache"
         }
     ]
 }

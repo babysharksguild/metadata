@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green dress"
+            "value": "orange stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "surprised"
+            "value": "bad mood"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "tongue"
         }
     ]
 }

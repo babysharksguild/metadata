@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "rock hoodie"
+            "value": "purple off-shoulder"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "star tactile"
+            "value": "devil hornes"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "horizon"
         }
     ]
 }

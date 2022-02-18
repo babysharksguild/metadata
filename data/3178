@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "referee"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "bird"
+            "value": "birdsnest"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "cheerful"
         }
     ]
 }

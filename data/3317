@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink cardigan"
+            "value": "turtleneck"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "blonde regent"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "phoneme o"
         }
     ]
 }

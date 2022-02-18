@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "cream"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sweater"
+            "value": "blue hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "apple"
+            "value": "red beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "rainbowpuke"
         }
     ]
 }

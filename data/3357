@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "strawberrty"
+            "value": "white T"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "stripe bucket"
+            "value": "rabbit hat"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "horizon"
         }
     ]
 }

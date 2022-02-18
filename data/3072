@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "snake neck"
+            "value": "brown cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "squid"
+            "value": "blonde regent"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "frowning"
         }
     ]
 }

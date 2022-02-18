@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "gray jacket"
+            "value": "flower sleeveless"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "blue ribbon"
+            "value": "nursing cap"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "toothpick"
         }
     ]
 }

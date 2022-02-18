@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "angel shirt"
+            "value": "black bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "omelet"
+            "value": "flower crown"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "x"
         }
     ]
 }

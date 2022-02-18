@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black vest"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "sailor hat"
+            "value": "flower crown"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "white mastache"
         }
     ]
 }

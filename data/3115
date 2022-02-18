@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "referee"
+            "value": "school uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "squid"
+            "value": "bee tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "horizon"
         }
     ]
 }

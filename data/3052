@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple off-shoulder"
+            "value": "purple sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "question mark"
+            "value": "red mane"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "gold tooth"
         }
     ]
 }

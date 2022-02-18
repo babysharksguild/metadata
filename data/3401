@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green fur coat"
+            "value": "pink cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "flower crown"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "frowning"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "eyes"
+            "value": "flower sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "black regent"
+            "value": "yellow flower"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "zig-zag"
         }
     ]
 }

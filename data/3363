@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "referee"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "red beret"
+            "value": "panic"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "horizon"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "carrot"
+            "value": "referee"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "straw hat"
+            "value": "pink visor"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "frowning"
         }
     ]
 }

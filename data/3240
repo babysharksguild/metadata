@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "flower sleeveless"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "yellow flower"
+            "value": "skull"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "smirking"
         }
     ]
 }

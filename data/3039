@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "eyes"
+            "value": "rock hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "pajama cap"
+            "value": "stripe bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "soul"
         }
     ]
 }

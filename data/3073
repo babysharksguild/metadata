@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "strawberrty"
+            "value": "blue sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "rabbit hat"
+            "value": "cute afuro"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "hamster"
         }
     ]
 }

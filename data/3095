@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "devil shirt"
+            "value": "green fur coat"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "shell crown"
+            "value": "yellow ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "rainbowpuke"
         }
     ]
 }

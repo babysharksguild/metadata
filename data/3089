@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white muffler"
+            "value": "orange stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "tulip"
+            "value": "red origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "toothpick"
         }
     ]
 }

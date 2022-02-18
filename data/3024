@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink overalls"
+            "value": "blue dress"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "surprised"
+            "value": "sunny-side up"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "frowning"
         }
     ]
 }

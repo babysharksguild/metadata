@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "gakuran"
+            "value": "cream vest"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "rabbit hat"
+            "value": "star tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "frustrated"
         }
     ]
 }

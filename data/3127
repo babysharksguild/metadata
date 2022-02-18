@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green fur coat"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "yellow flower"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "phoneme o"
         }
     ]
 }

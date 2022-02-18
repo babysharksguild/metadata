@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "blue bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "happy"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "horizon"
         }
     ]
 }

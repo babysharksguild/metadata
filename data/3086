@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "v-necked sweater"
+            "value": "salopette"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "skull"
+            "value": "red beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "zig-zag"
         }
     ]
 }

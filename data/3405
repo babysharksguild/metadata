@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "skull hoodie"
+            "value": "v-necked sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "bee tactile"
+            "value": "sunny-side up"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "mischief"
         }
     ]
 }

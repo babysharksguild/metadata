@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "salopette"
+            "value": "leopard vest"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "surprised"
+            "value": "red beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "cheerful"
         }
     ]
 }

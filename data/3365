@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "green fur coat"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "green origami kabuto"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "gold tooth"
         }
     ]
 }

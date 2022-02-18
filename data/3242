@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "gray jacket"
+            "value": "carrot"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "green origami kabuto"
+            "value": "banana"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "omega"
         }
     ]
 }

@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white T"
+            "value": "plaid shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "maid headband"
+            "value": "shell crown"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "gold tooth"
         }
     ]
 }

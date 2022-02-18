@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black overalls"
+            "value": "black vest"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "birdsnest"
+            "value": "coral"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "3"
         }
     ]
 }

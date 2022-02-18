@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "hero suit"
+            "value": "eyes"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "pink visor"
+            "value": "crab"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "grumpy"
         }
     ]
 }

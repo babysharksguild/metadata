@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "referee"
+            "value": "orange stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "brown hat"
+            "value": "coral"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "white mastache"
         }
     ]
 }

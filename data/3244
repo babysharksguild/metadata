@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white T"
+            "value": "blue dress"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "tulip"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "phoneme o"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blouse"
+            "value": "gray jacket"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "stripe bucket"
+            "value": "red origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "frowning"
         }
     ]
 }

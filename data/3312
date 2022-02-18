@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "snake neck"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "orange cap"
+            "value": "yellow flower"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "hamster"
         }
     ]
 }

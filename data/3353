@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "referee"
+            "value": "blue bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "bee tactile"
+            "value": "bird"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "zig-zag"
         }
     ]
 }

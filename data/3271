@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black vest"
+            "value": "black bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "pajama cap"
+            "value": "star tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "gold tooth"
         }
     ]
 }

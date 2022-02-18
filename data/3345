@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black overalls"
+            "value": "pink hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "apple"
+            "value": "pajama cap"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "mischief"
         }
     ]
 }

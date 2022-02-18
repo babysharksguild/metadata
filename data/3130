@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -20,15 +20,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "green origami kabuto"
+            "value": "black cap"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "frustrated"
         }
     ]
 }

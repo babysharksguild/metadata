@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "strawberrty"
+            "value": "brown cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "exclamation mark"
+            "value": "checkered headband"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "3"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink cardigan"
+            "value": "salopette"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "brown checkered hat"
+            "value": "pajama cap"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "soul"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg T"
+            "value": "brown checkered"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "black regent"
+            "value": "happy"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "mastache"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "egg"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "crab"
+            "value": "surprised"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "x"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink cardigan"
+            "value": "tiger"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "apple"
+            "value": "leopard hat"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "omega"
         }
     ]
 }

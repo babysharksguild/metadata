@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "turtleneck"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "heart crown"
+            "value": "exclamation mark"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "omega"
         }
     ]
 }

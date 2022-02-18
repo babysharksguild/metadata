@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "carrot"
+            "value": "white T"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "crab cap"
+            "value": "ribbon headband"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "gold tooth"
         }
     ]
 }

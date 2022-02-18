@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink T"
+            "value": "turtleneck"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "black regent"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "smirking"
         }
     ]
 }

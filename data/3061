@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue sukajan"
+            "value": "yellow kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "mischief"
         }
     ]
 }

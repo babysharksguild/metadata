@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white muffler"
+            "value": "bsg hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "green origami kabuto"
+            "value": "banana"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "rainbowpuke"
         }
     ]
 }

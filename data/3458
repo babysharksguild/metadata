@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "plaid shirt"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "Japanese demon"
+            "value": "black cap"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "omega"
         }
     ]
 }

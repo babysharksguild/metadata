@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink cardigan"
+            "value": "tiger"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "chonmage"
+            "value": "pink visor"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "3"
         }
     ]
 }

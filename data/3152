@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "hero suit"
+            "value": "angel shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "sunny-side up"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "hamster"
         }
     ]
 }

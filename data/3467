@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple off-shoulder"
+            "value": "blue sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "blue mane"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "3"
         }
     ]
 }

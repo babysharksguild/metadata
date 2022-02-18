@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "checkered bustier"
+            "value": "angel shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "blonde regent"
+            "value": "pajama cap"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "toothpick"
         }
     ]
 }

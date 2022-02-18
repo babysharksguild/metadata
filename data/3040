@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green dress"
+            "value": "pink T"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "ribbon headband"
+            "value": "frustrated"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "frowning"
         }
     ]
 }

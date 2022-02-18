@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie shirt"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "flower crown"
+            "value": "yellow ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "mischief"
         }
     ]
 }

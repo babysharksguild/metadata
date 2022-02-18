@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "snake neck"
+            "value": "brown checkered"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "pirate hat"
+            "value": "red beret"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "frustrated"
         }
     ]
 }

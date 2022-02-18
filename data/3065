@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sleeveless"
+            "value": "argyle sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "green origami kabuto"
+            "value": "coral"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "3"
         }
     ]
 }

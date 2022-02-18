@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "turtleneck"
+            "value": "flower sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "question mark"
+            "value": "leopard hat"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "smirking"
         }
     ]
 }

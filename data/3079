@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue bandana"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "pirate hat"
+            "value": "marine cap"
         },
         {
             "trait_type": "mouth",

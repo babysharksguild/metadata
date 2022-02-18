@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sweater"
+            "value": "blue tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "bee tactile"
+            "value": "tulip"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "toothpick"
         }
     ]
 }

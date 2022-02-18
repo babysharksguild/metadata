@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "wine off-shoulder"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "happy"
+            "value": "cherry"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "grumpy"
         }
     ]
 }

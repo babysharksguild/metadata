@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle sweater"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "exclamation mark"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "soul"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard vest"
+            "value": "flower sleeveless"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "gray bucket"
+            "value": "coral"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "rainbowpuke"
         }
     ]
 }

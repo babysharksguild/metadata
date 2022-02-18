@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white overalls"
+            "value": "black bandana"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "green ribbons"
+            "value": "ribbon headband"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "smirking"
         }
     ]
 }

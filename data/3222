@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown cardigan"
+            "value": "wine off-shoulder"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "blue ribbon"
+            "value": "rabbit hat"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "tongue"
         }
     ]
 }

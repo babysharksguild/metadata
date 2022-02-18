@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "salopette"
+            "value": "pink T"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "orange cap"
+            "value": "white hat"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "smirking"
         }
     ]
 }

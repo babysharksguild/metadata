@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white muffler"
+            "value": "pink T"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "bad mood"
+            "value": "heart crown"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "toothpick"
         }
     ]
 }

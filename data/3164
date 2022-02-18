@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle sweater"
+            "value": "leopard vest"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "crab cap"
+            "value": "banana"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "hexagon"
         }
     ]
 }

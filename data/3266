@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "hero suit"
+            "value": "blue tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "happy"
+            "value": "checkered headband"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "frowning"
         }
     ]
 }

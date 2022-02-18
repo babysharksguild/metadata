@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "snake neck"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "banana"
+            "value": "yellow flower"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "hamster"
         }
     ]
 }

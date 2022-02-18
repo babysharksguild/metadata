@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red kinomono"
+            "value": "snake neck"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "Japanese demon"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "hamster"
         }
     ]
 }

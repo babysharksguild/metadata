@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "eyes"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "skull"
+            "value": "cute afuro"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "gold tooth"
         }
     ]
 }

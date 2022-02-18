@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green fur coat"
+            "value": "red sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "grass crown"
+            "value": "blue ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "phoneme o"
         }
     ]
 }

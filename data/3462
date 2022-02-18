@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "angel shirt"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "squid"
+            "value": "maid headband"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "rainbowpuke"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -20,15 +20,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "pink ribbon"
+            "value": "wine headband"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "zig-zag"
         }
     ]
 }

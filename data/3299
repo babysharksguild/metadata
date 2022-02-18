@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg T"
+            "value": "flower sleeveless"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "bird"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "mischief"
         }
     ]
 }

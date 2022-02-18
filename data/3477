@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown checkered"
+            "value": "wine off-shoulder"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "tulip"
+            "value": "sunny-side up"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "grumpy"
         }
     ]
 }

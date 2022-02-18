@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "referee"
+            "value": "bsg hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "blue beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "grumpy"
         }
     ]
 }

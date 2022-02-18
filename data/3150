@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard vest"
+            "value": "red jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "black cap"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "zig-zag"
         }
     ]
 }

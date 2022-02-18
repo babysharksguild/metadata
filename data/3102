@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "blue stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "bad mood"
+            "value": "happy"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "tongue"
         }
     ]
 }

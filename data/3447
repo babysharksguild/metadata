@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple off-shoulder"
+            "value": "white muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "pink ribbon"
+            "value": "sunny-side up"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "phoneme o"
         }
     ]
 }

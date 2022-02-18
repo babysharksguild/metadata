@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue sukajan"
+            "value": "pink overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "checkered headband"
+            "value": "mouse cap"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "smirking"
         }
     ]
 }

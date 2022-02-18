@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "orange stripes"
+            "value": "school uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "flower crown"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "hamster"
         }
     ]
 }

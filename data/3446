@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue stripes"
+            "value": "red sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "green ribbons"
+            "value": "blue mane"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "frustrated"
         }
     ]
 }

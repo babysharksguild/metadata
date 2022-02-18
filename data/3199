@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black bandana"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "star tactile"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "toothpick"
         }
     ]
 }

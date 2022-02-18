@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "strawberrty"
+            "value": "pink hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "panic"
+            "value": "Japanese demon"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "weary"
         }
     ]
 }

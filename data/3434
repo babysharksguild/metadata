@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue bandana"
+            "value": "blue hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "orange cap"
+            "value": "bee tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "hamster"
         }
     ]
 }

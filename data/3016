@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie sweater"
+            "value": "blue bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "white mane"
+            "value": "sailor hat"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "cheerful"
         }
     ]
 }

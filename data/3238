@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue bandana"
+            "value": "flower sleeveless"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "ribbon headband"
+            "value": "devil hornes"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "smile"
         }
     ]
 }

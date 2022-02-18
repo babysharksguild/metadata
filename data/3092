@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red sukajan"
+            "value": "turtleneck"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "red beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "smirking"
         }
     ]
 }

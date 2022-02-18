@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red jersey"
+            "value": "brown cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "cherry"
+            "value": "blue origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "rainbowpuke"
         }
     ]
 }

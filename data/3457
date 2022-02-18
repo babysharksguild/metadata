@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "navy uniform"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "sunny-side up"
+            "value": "brown checkered hat"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "cheerful"
         }
     ]
 }

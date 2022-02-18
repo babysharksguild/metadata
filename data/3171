@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "yellow kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "blonde regent"
+            "value": "rabbit hat"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "weary"
         }
     ]
 }

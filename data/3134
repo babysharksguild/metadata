@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "purple off-shoulder"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "crab cap"
+            "value": "grass crown"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "rainbowpuke"
         }
     ]
 }

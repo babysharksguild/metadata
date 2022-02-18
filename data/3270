@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green fur coat"
+            "value": "star T"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "sunny-side up"
+            "value": "crab cap"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "smirking"
         }
     ]
 }

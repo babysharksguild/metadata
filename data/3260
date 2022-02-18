@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue kimono"
+            "value": "leopard muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "shell crown"
+            "value": "squid"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "smirking"
         }
     ]
 }

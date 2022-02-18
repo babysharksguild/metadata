@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue bandana"
+            "value": "blouse"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "mouse cap"
+            "value": "cherry"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "frustrated"
         }
     ]
 }

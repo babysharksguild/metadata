@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "nurse costume"
+            "value": "school uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "shell crown"
+            "value": "blue beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "zig-zag"
         }
     ]
 }

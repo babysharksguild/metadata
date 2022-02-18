@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sleeveless"
+            "value": "pink overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "rage"
+            "value": "blue beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "cheerful"
         }
     ]
 }

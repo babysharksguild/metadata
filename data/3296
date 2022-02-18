@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue bandana"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "flower crown"
+            "value": "pirate hat"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "x"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple off-shoulder"
+            "value": "plaid shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "pirate hat"
+            "value": "star tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "cheerful"
         }
     ]
 }

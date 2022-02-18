@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black bandana"
+            "value": "purple off-shoulder"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "yellow flower"
+            "value": "squid"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "3"
         }
     ]
 }

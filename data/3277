@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "plaid shirt"
+            "value": "pink hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "strawberry"
+            "value": "panic"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "soul"
         }
     ]
 }

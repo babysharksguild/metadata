@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white T"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "shell crown"
+            "value": "bee tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "grumpy"
         }
     ]
 }

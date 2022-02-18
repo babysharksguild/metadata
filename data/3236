@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue sukajan"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "white hat"
+            "value": "red mane"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "hamster"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blouse"
+            "value": "bsg T"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "wine headband"
+            "value": "panic"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "rainbowpuke"
         }
     ]
 }

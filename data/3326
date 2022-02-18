@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle sweater"
+            "value": "referee"
         },
         {
             "trait_type": "eyes",
@@ -24,7 +24,7 @@
         },
         {
             "trait_type": "hat",
-            "value": "green ribbons"
+            "value": "Japanese demon"
         },
         {
             "trait_type": "mouth",

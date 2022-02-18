@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink cardigan"
+            "value": "black jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "blonde regent"
+            "value": "bad mood"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "toothpick"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "navy uniform"
+            "value": "angel shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "leopard hat"
+            "value": "banana"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "frustrated"
         }
     ]
 }

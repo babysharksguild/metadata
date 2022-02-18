@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "plaid shirt"
+            "value": "pink hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "pink visor"
+            "value": "birdsnest"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "phoneme eh"
         }
     ]
 }

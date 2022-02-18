@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "flower sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "mouse cap"
+            "value": "rabbit hat"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "cheerful"
         }
     ]
 }

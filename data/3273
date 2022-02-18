@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "snake neck"
+            "value": "black overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "devil hornes"
+            "value": "sunny-side up"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "toothpick"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "devil shirt"
+            "value": "bow tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "cute afuro"
+            "value": "panic"
         },
         {
             "trait_type": "mouth",

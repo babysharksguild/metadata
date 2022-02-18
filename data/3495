@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "turtleneck"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "straw hat"
+            "value": "blue mane"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "gold tooth"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "cream vest"
+            "value": "navy uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "maid headband"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "frustrated"
         }
     ]
 }

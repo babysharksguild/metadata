@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -20,15 +20,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "omelet"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "x"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "hero suit"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "pink ribbon"
+            "value": "pink visor"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "cheerful"
         }
     ]
 }

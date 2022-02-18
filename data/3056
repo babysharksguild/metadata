@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red kinomono"
+            "value": "gakuran"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "pajama cap"
+            "value": "blue ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "mastache"
         }
     ]
 }

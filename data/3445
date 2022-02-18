@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red sukajan"
+            "value": "brown cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "green ribbons"
+            "value": "red beret"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "zig-zag"
         }
     ]
 }
