@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "strawberrty"
+            "value": "navy uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "leopard hat"
+            "value": "sailor hat"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "grumpy"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg T"
+            "value": "rock hoodie"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "crab cap"
+            "value": "yellow ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "mastache"
         }
     ]
 }

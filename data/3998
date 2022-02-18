@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black vest"
+            "value": "white muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "cute afuro"
+            "value": "orange cap"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "white mastache"
         }
     ]
 }

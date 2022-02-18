@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white overalls"
+            "value": "blue stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "nursing cap"
+            "value": "strawberry"
         },
         {
             "trait_type": "mouth",

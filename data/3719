@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "gray jacket"
+            "value": "pink hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "skull"
+            "value": "rabbit hat"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "mastache"
         }
     ]
 }

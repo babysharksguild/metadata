@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "school uniform"
+            "value": "purple sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "nursing cap"
+            "value": "pink visor"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "gold tooth"
         }
     ]
 }

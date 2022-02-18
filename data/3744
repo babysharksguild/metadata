@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sleeveless"
+            "value": "argyle vest"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "sunny-side up"
+            "value": "rage"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "gold tooth"
         }
     ]
 }

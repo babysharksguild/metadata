@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black vest"
+            "value": "pink T"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "devil hornes"
+            "value": "frustrated"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "smile"
         }
     ]
 }

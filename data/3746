@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue stripes"
+            "value": "alice"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "cute afuro"
+            "value": "carrot hat"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "rainbowpuke"
         }
     ]
 }

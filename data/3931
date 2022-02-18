@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white overalls"
+            "value": "formal sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "sunny-side up"
+            "value": "surprised"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "rainbowpuke"
         }
     ]
 }

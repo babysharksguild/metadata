@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "angel shirt"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "green ribbons"
+            "value": "carrot hat"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "frustrated"
         }
     ]
 }

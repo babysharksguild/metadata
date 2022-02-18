@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "rock hoodie"
+            "value": "black vest"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "question mark"
+            "value": "yellow flower"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "mastache"
         }
     ]
 }

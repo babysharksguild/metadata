@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blouse"
+            "value": "angel shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "black regent"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "cheerful"
         }
     ]
 }

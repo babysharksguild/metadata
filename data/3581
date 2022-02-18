@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "strawberrty"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "apple"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "omega"
         }
     ]
 }

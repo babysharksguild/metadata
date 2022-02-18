@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle vest"
+            "value": "blouse"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "straw hat"
+            "value": "rabbit hat"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "grumpy"
         }
     ]
 }

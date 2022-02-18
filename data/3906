@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "plaid shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "carrot hat"
+            "value": "black mane"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "white mastache"
         }
     ]
 }

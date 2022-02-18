@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "school uniform"
+            "value": "blue stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "blue ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "grumpy"
         }
     ]
 }

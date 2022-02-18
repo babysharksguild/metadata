@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green dress"
+            "value": "argyle vest"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "panic"
+            "value": "grass crown"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "horizon"
         }
     ]
 }

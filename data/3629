@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "pink T"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "birdsnest"
+            "value": "sparkling"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "cheerful"
         }
     ]
 }

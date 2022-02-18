@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "plaid shirt"
+            "value": "rock hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "pajama cap"
+            "value": "crab cap"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "phoneme eh"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "eyes"
+            "value": "gakuran"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "bird"
+            "value": "flower crown"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "weary"
         }
     ]
 }

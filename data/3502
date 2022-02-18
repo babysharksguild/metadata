@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black vest"
+            "value": "leopard vest"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "pirate hat"
+            "value": "mouse cap"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "soul"
         }
     ]
 }

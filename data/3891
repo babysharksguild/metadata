@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "rock hoodie"
+            "value": "star T"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "grass crown"
+            "value": "blue ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "grumpy"
         }
     ]
 }

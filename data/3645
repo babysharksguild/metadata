@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "v-necked sweater"
+            "value": "brown checkered"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "apple"
+            "value": "mouse cap"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "mastache"
         }
     ]
 }

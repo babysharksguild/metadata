@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white muffler"
+            "value": "red jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "maid headband"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "smirking"
         }
     ]
 }

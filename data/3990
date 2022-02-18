@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black puff-sleeve"
+            "value": "egg"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "gray bucket"
+            "value": "red origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "white mastache"
         }
     ]
 }

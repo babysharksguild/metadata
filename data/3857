@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "pink overalls"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "omelet"
+            "value": "orange cap"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "omega"
         }
     ]
 }

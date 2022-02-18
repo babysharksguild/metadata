@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "gakuran"
+            "value": "sailor"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "stripe bucket"
+            "value": "tulip"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "zig-zag"
         }
     ]
 }

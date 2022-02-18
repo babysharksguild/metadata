@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "school uniform"
+            "value": "green dress"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "mouse cap"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "soul"
         }
     ]
 }

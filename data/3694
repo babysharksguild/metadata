@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue kimono"
+            "value": "carrot"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "shell crown"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "weary"
         }
     ]
 }

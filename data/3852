@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red sukajan"
+            "value": "wine off-shoulder"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "leopard beret"
+            "value": "shell crown"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "smile"
         }
     ]
 }

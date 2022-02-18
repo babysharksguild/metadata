@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "skull hoodie"
+            "value": "navy uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "leopard hat"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "zig-zag"
         }
     ]
 }

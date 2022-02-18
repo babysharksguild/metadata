@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white overalls"
+            "value": "referee"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "flower crown"
+            "value": "strawberry"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "horizon"
         }
     ]
 }

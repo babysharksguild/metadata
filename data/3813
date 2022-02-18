@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "alice"
+            "value": "v-necked sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "bad mood"
+            "value": "maid headband"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "omega"
         }
     ]
 }

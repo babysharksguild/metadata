@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "sailor"
+            "value": "alice"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "cherry"
+            "value": "squid"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "white mastache"
         }
     ]
 }

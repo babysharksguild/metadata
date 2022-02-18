@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "nurse costume"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "brown hat"
+            "value": "Japanese demon"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "gold tooth"
         }
     ]
 }

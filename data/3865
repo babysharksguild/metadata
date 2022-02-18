@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink T"
+            "value": "devil shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "banana"
+            "value": "rabbit hat"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "toothpick"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green dress"
+            "value": "brown cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "squid"
+            "value": "rabbit hat"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "cheerful"
         }
     ]
 }

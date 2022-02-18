@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "v-necked sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "blue ribbon"
+            "value": "yellow ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "phoneme eh"
         }
     ]
 }

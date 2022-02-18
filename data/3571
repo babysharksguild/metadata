@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie shirt"
+            "value": "yellow kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "marine cap"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "cheerful"
         }
     ]
 }

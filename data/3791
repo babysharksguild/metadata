@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg T"
+            "value": "white muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "maid headband"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "mastache"
         }
     ]
 }

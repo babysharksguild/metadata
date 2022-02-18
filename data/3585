@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "devil shirt"
+            "value": "snake neck"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "crab cap"
+            "value": "wine headband"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "frustrated"
         }
     ]
 }

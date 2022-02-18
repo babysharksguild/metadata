@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "star T"
+            "value": "yellow kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "carrot hat"
+            "value": "crab cap"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "rainbowpuke"
         }
     ]
 }

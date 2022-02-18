@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "egg"
+            "value": "black jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "bird"
+            "value": "grass crown"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "toothpick"
         }
     ]
 }

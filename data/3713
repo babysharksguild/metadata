@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "angel shirt"
+            "value": "salopette"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "pirate hat"
+            "value": "birdsnest"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "rainbowpuke"
         }
     ]
 }

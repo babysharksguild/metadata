@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "angel shirt"
+            "value": "argyle sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "crab"
+            "value": "skull"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "frustrated"
         }
     ]
 }

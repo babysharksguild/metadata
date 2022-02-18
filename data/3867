@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "angel shirt"
+            "value": "brown checkered"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "wine headband"
+            "value": "blonde regent"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "mischief"
         }
     ]
 }

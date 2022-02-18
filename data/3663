@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white muffler"
+            "value": "white T"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "leopard beret"
+            "value": "carrot hat"
         },
         {
             "trait_type": "mouth",

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "school uniform"
+            "value": "white overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "crab"
+            "value": "brown checkered hat"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "frowning"
         }
     ]
 }

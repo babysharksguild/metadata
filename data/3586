@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink cardigan"
+            "value": "salopette"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "gray bucket"
+            "value": "birdsnest"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "x"
         }
     ]
 }

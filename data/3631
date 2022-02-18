@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green fur coat"
+            "value": "red jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "white mane"
+            "value": "frustrated"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "frustrated"
         }
     ]
 }

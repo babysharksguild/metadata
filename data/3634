@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie shirt"
+            "value": "leopard vest"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "yellow ribbon"
+            "value": "black regent"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "frowning"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white T"
+            "value": "yellow kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "yellow flower"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "soul"
         }
     ]
 }

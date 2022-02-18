@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "v-necked sweater"
+            "value": "cream vest"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "brown checkered hat"
+            "value": "Japanese demon"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "phoneme o"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white T"
+            "value": "brown fur coat"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "grass crown"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "frowning"
         }
     ]
 }

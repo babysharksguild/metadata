@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "tiger"
+            "value": "blue bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "marine cap"
+            "value": "coral"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "grumpy"
         }
     ]
 }

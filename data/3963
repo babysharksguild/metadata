@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "strawberrty"
+            "value": "black overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "white mane"
+            "value": "coral"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "mischief"
         }
     ]
 }

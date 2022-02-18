@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "gakuran"
+            "value": "white T"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "ribbon headband"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",

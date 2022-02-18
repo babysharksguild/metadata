@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "devil shirt"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "birdsnest"
+            "value": "pink ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "rainbowpuke"
         }
     ]
 }

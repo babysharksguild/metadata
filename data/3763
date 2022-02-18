@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "snake neck"
+            "value": "eyes"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "rage"
+            "value": "carrot hat"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "zig-zag"
         }
     ]
 }

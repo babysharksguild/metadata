@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sleeveless"
+            "value": "eyes"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "mouse cap"
+            "value": "bee tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "zig-zag"
         }
     ]
 }

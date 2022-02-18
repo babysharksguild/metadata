@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "wine off-shoulder"
+            "value": "green dress"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "sailor hat"
+            "value": "rabbit hat"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "soul"
         }
     ]
 }

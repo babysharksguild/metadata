@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "formal sweater"
+            "value": "gray jacket"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "stripe bucket"
+            "value": "blue mane"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "toothpick"
         }
     ]
 }

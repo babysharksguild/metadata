@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "nurse costume"
+            "value": "leopard muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "brown checkered hat"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "weary"
         }
     ]
 }

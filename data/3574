@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle vest"
+            "value": "salopette"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "rage"
+            "value": "bird"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "soul"
         }
     ]
 }

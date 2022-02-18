@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "referee"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "sailor hat"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "hexagon"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "yellow kimono"
+            "value": "pink overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "heart crown"
+            "value": "bird"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "hexagon"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard muffler"
+            "value": "yellow kimono"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "wine headband"
+            "value": "checkered headband"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "toothpick"
         }
     ]
 }

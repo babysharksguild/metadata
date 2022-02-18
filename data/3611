@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black puff-sleeve"
+            "value": "bsg T"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "pajama cap"
+            "value": "black regent"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "mastache"
         }
     ]
 }

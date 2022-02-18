@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "argyle vest"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "sunny-side up"
+            "value": "orange cap"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "smile"
         }
     ]
 }

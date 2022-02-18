@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "hero suit"
+            "value": "turtleneck"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "grass crown"
+            "value": "crab"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "zig-zag"
         }
     ]
 }

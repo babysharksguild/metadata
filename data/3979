@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "egg"
+            "value": "black bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "white hat"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "3"
         }
     ]
 }

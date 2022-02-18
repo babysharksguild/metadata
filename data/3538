@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard muffler"
+            "value": "white overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "bad mood"
+            "value": "panic"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "phoneme o"
         }
     ]
 }

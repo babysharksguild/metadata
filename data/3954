@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "angel shirt"
+            "value": "red kinomono"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "pirate hat"
+            "value": "devil hornes"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "zig-zag"
         }
     ]
 }

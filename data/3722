@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "rock hoodie"
+            "value": "bsg hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "pirate hat"
+            "value": "yellow ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "phoneme eh"
         }
     ]
 }

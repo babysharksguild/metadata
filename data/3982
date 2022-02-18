@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "nurse costume"
+            "value": "blue sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "crab cap"
+            "value": "pajama cap"
         },
         {
             "trait_type": "mouth",

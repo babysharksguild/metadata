@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "gakuran"
+            "value": "formal sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "leopard hat"
+            "value": "nursing cap"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "zig-zag"
         }
     ]
 }

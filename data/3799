@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink overalls"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "brown checkered hat"
+            "value": "sailor hat"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "horizon"
         }
     ]
 }

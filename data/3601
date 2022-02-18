@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "orange stripes"
+            "value": "blue sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "nursing cap"
+            "value": "omelet"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "weary"
         }
     ]
 }

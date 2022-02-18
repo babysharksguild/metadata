@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "salopette"
+            "value": "strawberrty"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "black cap"
+            "value": "pirate hat"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "gold tooth"
         }
     ]
 }

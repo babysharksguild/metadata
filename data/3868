@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink overalls"
+            "value": "strawberrty"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "pink visor"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "3"
         }
     ]
 }

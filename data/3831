@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "yellow kimono"
+            "value": "blue stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "leopard beret"
+            "value": "omelet"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "mastache"
         }
     ]
 }

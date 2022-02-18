@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black bandana"
+            "value": "brown fur coat"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "shell crown"
+            "value": "pink visor"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "hexagon"
         }
     ]
 }

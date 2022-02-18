@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "salopette"
+            "value": "blue sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "star tactile"
+            "value": "blue mane"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "x"
         }
     ]
 }

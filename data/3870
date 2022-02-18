@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white muffler"
+            "value": "sailor"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "leopard beret"
+            "value": "nursing cap"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "tongue"
         }
     ]
 }

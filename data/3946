@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green dress"
+            "value": "snake neck"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "stripe bucket"
+            "value": "shell crown"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "phoneme o"
         }
     ]
 }

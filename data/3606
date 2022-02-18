@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue kimono"
+            "value": "leopard vest"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "question mark"
+            "value": "apple"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "mischief"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple sweater"
+            "value": "white overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "omelet"
+            "value": "nursing cap"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "mischief"
         }
     ]
 }

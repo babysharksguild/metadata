@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "carrot hat"
+            "value": "coral"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "omega"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue kimono"
+            "value": "blue tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "sailor hat"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "mastache"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue tie shirt"
+            "value": "white T"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "coral"
+            "value": "rabbit hat"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "smile"
         }
     ]
 }

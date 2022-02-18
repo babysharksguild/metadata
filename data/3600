@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple off-shoulder"
+            "value": "orange stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "tulip"
+            "value": "nursing cap"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "omega"
         }
     ]
 }

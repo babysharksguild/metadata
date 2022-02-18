@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "school uniform"
+            "value": "hero suit"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "nursing cap"
+            "value": "green ribbons"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "omega"
         }
     ]
 }

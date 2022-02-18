@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "egg"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "leopard hat"
+            "value": "brown checkered hat"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "weary"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "nurse costume"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "bad mood"
+            "value": "black cap"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "white mastache"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "orange stripes"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "bee tactile"
+            "value": "skull"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "hexagon"
         }
     ]
 }

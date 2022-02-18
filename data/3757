@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blouse"
+            "value": "red sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "nursing cap"
+            "value": "black mane"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "grumpy"
         }
     ]
 }

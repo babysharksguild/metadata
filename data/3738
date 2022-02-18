@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,11 +16,11 @@
         },
         {
             "trait_type": "clothes",
-            "value": "star T"
+            "value": "bsg hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "star"
         },
         {
             "trait_type": "hat",
@@ -28,7 +28,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "omega"
         }
     ]
 }

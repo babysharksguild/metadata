@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "eyes"
+            "value": "hero suit"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "happy"
+            "value": "birdsnest"
         },
         {
             "trait_type": "mouth",

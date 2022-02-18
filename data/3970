@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -20,15 +20,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "sparkling"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "mischief"
         }
     ]
 }

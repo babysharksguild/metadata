@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg hoodie"
+            "value": "flower sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "Japanese demon"
+            "value": "green origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "weary"
         }
     ]
 }

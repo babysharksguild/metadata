@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "skull hoodie"
+            "value": "brown cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "grin"
         },
         {
             "trait_type": "hat",
-            "value": "white mane"
+            "value": "bee tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "hamster"
         }
     ]
 }

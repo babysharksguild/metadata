@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue tie shirt"
+            "value": "devil shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "bird"
+            "value": "coral"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "3"
         }
     ]
 }

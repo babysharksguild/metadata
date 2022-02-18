@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "checkered bustier"
+            "value": "v-necked sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "red beret"
+            "value": "happy"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "frustrated"
         }
     ]
 }

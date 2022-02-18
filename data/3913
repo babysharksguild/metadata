@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie sweater"
+            "value": "gakuran"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "rabbit hat"
+            "value": "blue mane"
         },
         {
             "trait_type": "mouth",

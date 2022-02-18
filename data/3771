@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blouse"
+            "value": "navy uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "red beret"
+            "value": "devil hornes"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "toothpick"
         }
     ]
 }

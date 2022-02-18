@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "gray bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "toothpick"
         }
     ]
 }

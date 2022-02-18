@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "checkered bustier"
+            "value": "purple sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "coral"
+            "value": "Japanese demon"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "x"
         }
     ]
 }

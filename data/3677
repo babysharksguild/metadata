@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "wine off-shoulder"
+            "value": "brown cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "ribbon headband"
+            "value": "apple"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "omega"
         }
     ]
 }

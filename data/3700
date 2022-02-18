@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "angel shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "exclamation mark"
+            "value": "blue ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "rainbowpuke"
         }
     ]
 }

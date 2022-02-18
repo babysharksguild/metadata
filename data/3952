@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue kimono"
+            "value": "bow tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "exclamation mark"
+            "value": "blue ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "soul"
         }
     ]
 }

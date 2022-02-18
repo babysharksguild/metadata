@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle sweater"
+            "value": "nurse costume"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "mouse cap"
+            "value": "black mane"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "grumpy"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "checkered bustier"
+            "value": "angel shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "shell crown"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "hamster"
         }
     ]
 }

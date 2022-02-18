@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown checkered"
+            "value": "checkered bustier"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "flower crown"
+            "value": "green ribbons"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "horizon"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "green fur coat"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "green ribbons"
+            "value": "cherry"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "mischief"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white muffler"
+            "value": "sailor"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "bee tactile"
+            "value": "coral"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "weary"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "turtleneck"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "devil hornes"
+            "value": "happy"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "toothpick"
         }
     ]
 }

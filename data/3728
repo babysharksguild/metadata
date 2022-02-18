@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red jersey"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "flower crown"
+            "value": "bee tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "rainbowpuke"
         }
     ]
 }

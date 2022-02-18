@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard vest"
+            "value": "eyes"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "happy"
+            "value": "marine cap"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "weary"
         }
     ]
 }

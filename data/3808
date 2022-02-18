@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie shirt"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "pink visor"
+            "value": "sunny-side up"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "smile"
         }
     ]
 }

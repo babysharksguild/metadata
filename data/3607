@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "turtleneck"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "skull"
+            "value": "bird"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "smirking"
         }
     ]
 }

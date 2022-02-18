@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white overalls"
+            "value": "blouse"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "green origami kabuto"
+            "value": "banana"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "frustrated"
         }
     ]
 }

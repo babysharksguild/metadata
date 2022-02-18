@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "tiger"
+            "value": "navy uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "brown checkered hat"
+            "value": "frustrated"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "hexagon"
         }
     ]
 }

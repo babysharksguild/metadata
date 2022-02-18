@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "hero suit"
+            "value": "pink cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "Japanese demon"
+            "value": "panic"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "cheerful"
         }
     ]
 }

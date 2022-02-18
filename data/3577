@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "egg"
+            "value": "white T"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "chonmage"
+            "value": "pajama cap"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "horizon"
         }
     ]
 }

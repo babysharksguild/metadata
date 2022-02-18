@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "hero suit"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "rabbit hat"
+            "value": "leopard hat"
         },
         {
             "trait_type": "mouth",

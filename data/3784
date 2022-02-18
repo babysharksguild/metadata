@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "white overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "grass crown"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "mastache"
         }
     ]
 }

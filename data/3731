@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "green dress"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "gray bucket"
+            "value": "wine headband"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "weary"
         }
     ]
 }

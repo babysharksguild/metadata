@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle sweater"
+            "value": "pink hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "marine cap"
+            "value": "omelet"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "omega"
         }
     ]
 }

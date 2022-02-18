@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,11 +16,11 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie sweater"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
@@ -28,7 +28,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "3"
         }
     ]
 }

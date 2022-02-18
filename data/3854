@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle sweater"
+            "value": "cream vest"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "wine headband"
+            "value": "straw hat"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "soul"
         }
     ]
 }

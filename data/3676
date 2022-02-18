@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,11 +16,11 @@
         },
         {
             "trait_type": "clothes",
-            "value": "orange stripes"
+            "value": "flower sleeveless"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
@@ -28,7 +28,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "x"
         }
     ]
 }

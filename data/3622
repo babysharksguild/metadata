@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown checkered"
+            "value": "leopard muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "stripe bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "hamster"
         }
     ]
 }

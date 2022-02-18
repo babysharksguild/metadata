@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard vest"
+            "value": "blue hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "green origami kabuto"
+            "value": "marine cap"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "tongue"
         }
     ]
 }

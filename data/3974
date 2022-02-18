@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "salopette"
+            "value": "star T"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "pajama cap"
+            "value": "sparkling"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "smirking"
         }
     ]
 }

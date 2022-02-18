@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple off-shoulder"
+            "value": "salopette"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "tulip"
+            "value": "coral"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "smirking"
         }
     ]
 }

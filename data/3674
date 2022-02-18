@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sleeveless"
+            "value": "red sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "sparkling"
+            "value": "leopard beret"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "gold tooth"
         }
     ]
 }

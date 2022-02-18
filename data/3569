@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink overalls"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "surprised"
+            "value": "ribbon headband"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "3"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple off-shoulder"
+            "value": "eyes"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "mouse cap"
+            "value": "tulip"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "3"
         }
     ]
 }

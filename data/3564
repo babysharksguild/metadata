@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "salopette"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "banana"
+            "value": "devil hornes"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "smile"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue sukajan"
+            "value": "wine off-shoulder"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "banana"
+            "value": "strawberry"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "smirking"
         }
     ]
 }

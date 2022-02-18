@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg hoodie"
+            "value": "referee"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "tulip"
+            "value": "blue beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "x"
         }
     ]
 }

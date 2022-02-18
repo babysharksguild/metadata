@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "wine off-shoulder"
+            "value": "carrot"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "black regent"
+            "value": "blue ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "rainbowpuke"
         }
     ]
 }

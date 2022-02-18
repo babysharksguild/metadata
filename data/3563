@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "eyes"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "stripe bucket"
+            "value": "rage"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "toothpick"
         }
     ]
 }

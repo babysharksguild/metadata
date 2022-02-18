@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "bow tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "question mark"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "phoneme eh"
         }
     ]
 }

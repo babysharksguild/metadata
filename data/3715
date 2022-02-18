@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink cardigan"
+            "value": "bsg hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "tulip"
+            "value": "nursing cap"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "smile"
         }
     ]
 }

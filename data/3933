@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "tiger"
+            "value": "blue kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "rabbit hat"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "x"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -20,15 +20,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "exclamation mark"
+            "value": "strawberry"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "phoneme eh"
         }
     ]
 }

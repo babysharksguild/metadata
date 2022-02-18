@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "devil shirt"
+            "value": "eyes"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "grin"
         },
         {
             "trait_type": "hat",
-            "value": "birdsnest"
+            "value": "cute afuro"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "mischief"
         }
     ]
 }

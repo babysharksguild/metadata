@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink overalls"
+            "value": "black bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "red beret"
         },
         {
             "trait_type": "mouth",

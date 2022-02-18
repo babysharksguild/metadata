@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue kimono"
+            "value": "flower sleeveless"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "wine headband"
+            "value": "mouse cap"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "omega"
         }
     ]
 }

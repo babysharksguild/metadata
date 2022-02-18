@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "carrot"
+            "value": "blue tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "sparkling"
+            "value": "leopard hat"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "3"
         }
     ]
 }

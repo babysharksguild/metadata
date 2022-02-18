@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "yellow kimono"
+            "value": "salopette"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "heart crown"
+            "value": "grass crown"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "frustrated"
         }
     ]
 }

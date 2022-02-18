@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "leopard muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "white mane"
+            "value": "gray bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "hexagon"
         }
     ]
 }

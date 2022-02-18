@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "hero suit"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "sunny-side up"
+            "value": "bird"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "toothpick"
         }
     ]
 }

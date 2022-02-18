@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue shirt"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "sparkling"
+            "value": "bad mood"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "horizon"
         }
     ]
 }

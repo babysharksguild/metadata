@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple sweater"
+            "value": "bow tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "omelet"
+            "value": "straw hat"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "phoneme o"
         }
     ]
 }

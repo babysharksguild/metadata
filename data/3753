@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle vest"
+            "value": "rock hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "blonde regent"
+            "value": "Japanese demon"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "frowning"
         }
     ]
 }

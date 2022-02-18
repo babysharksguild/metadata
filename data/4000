@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "turtleneck"
+            "value": "argyle vest"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "gray bucket"
+            "value": "rage"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "omega"
         }
     ]
 }

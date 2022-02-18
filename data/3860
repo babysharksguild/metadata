@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown checkered"
+            "value": "leopard vest"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "black regent"
+            "value": "gray bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "3"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "v-necked sweater"
+            "value": "black jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "ribbon headband"
+            "value": "red beret"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "smile"
         }
     ]
 }

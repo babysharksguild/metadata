@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sleeveless"
+            "value": "carrot"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "banana"
+            "value": "stripe bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "zig-zag"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black puff-sleeve"
+            "value": "navy uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "omelet"
+            "value": "pink visor"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "frustrated"
         }
     ]
 }

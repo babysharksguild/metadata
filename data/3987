@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "tiger"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "bee tactile"
+            "value": "orange cap"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "mastache"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard vest"
+            "value": "bee"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "grin"
         },
         {
             "trait_type": "hat",
-            "value": "red beret"
+            "value": "banana"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "smile"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "tiger"
+            "value": "green dress"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "star tactile"
+            "value": "pink ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "mastache"
         }
     ]
 }

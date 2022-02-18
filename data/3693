@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue tie shirt"
+            "value": "green dress"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "blue beanie"
+            "value": "straw hat"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "horizon"
         }
     ]
 }

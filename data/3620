@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie shirt"
+            "value": "brown cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "white hat"
+            "value": "green origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "cheerful"
         }
     ]
 }

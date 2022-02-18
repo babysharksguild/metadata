@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "strawberrty"
+            "value": "bow tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "maid headband"
+            "value": "green ribbons"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "rainbowpuke"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white muffler"
+            "value": "pink cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "yellow ribbon"
+            "value": "stripe bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "rainbowpuke"
         }
     ]
 }

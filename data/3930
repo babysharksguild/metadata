@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "formal sweater"
+            "value": "brown fur coat"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "white mane"
+            "value": "shell crown"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "hamster"
         }
     ]
 }

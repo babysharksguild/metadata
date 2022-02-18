@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple sweater"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "white hat"
+            "value": "omelet"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "frustrated"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard muffler"
+            "value": "bsg T"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "heart crown"
+            "value": "orange cap"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "3"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie shirt"
+            "value": "argyle vest"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "maid headband"
+            "value": "straw hat"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "smirking"
         }
     ]
 }

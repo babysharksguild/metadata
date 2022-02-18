@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "carrot"
+            "value": "blue stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "nursing cap"
+            "value": "pirate hat"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "white mastache"
         }
     ]
 }

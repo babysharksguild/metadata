@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "nurse costume"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "blue beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "x"
         }
     ]
 }

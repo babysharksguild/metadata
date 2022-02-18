@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black puff-sleeve"
+            "value": "argyle vest"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "blue beanie"
+            "value": "leopard beret"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "toothpick"
         }
     ]
 }

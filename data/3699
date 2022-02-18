@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "devil shirt"
+            "value": "egg"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "squid"
+            "value": "pajama cap"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "gold tooth"
         }
     ]
 }

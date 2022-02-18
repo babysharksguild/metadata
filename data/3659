@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue dress"
+            "value": " daruma doll"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "bird"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "horizon"
         }
     ]
 }

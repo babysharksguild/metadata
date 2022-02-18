@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "alice"
+            "value": "red sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "red beret"
+            "value": "exclamation mark"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "hamster"
         }
     ]
 }

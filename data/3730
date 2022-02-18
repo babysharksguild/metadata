@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black overalls"
+            "value": "flower sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "rabbit hat"
+            "value": "crab"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "frustrated"
         }
     ]
 }

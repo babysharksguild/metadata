@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "navy uniform"
+            "value": "pink hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "banana"
+            "value": "blue beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "mischief"
         }
     ]
 }

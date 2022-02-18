@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "rock hoodie"
+            "value": "red jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "stripe bucket"
+            "value": "crab cap"
         },
         {
             "trait_type": "mouth",
-            "value": "cheerful"
+            "value": "zig-zag"
         }
     ]
 }

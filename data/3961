@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "egg"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "pink ribbon"
+            "value": "straw hat"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "soul"
         }
     ]
 }

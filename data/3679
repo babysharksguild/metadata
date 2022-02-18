@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red sukajan"
+            "value": "argyle sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "devil hornes"
+            "value": "skull"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "hexagon"
         }
     ]
 }

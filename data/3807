@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "orange stripes"
+            "value": "egg"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "crab cap"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "toothpick"
         }
     ]
 }

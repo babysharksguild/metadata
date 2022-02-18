@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "sailor"
+            "value": "gakuran"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "pink visor"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "omega"
         }
     ]
 }

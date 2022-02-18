@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "navy uniform"
+            "value": "brown fur coat"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "grass crown"
+            "value": "stripe bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "zig-zag"
         }
     ]
 }

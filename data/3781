@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "devil shirt"
+            "value": "flower sleeveless"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "star tactile"
+            "value": "nursing cap"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "frustrated"
         }
     ]
 }

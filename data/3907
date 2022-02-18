@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple off-shoulder"
+            "value": "pink T"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "ribbon headband"
+            "value": "marine cap"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "3"
         }
     ]
 }

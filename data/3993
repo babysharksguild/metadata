@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink overalls"
+            "value": "blue dress"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "straw hat"
+            "value": "carrot hat"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "rainbowpuke"
         }
     ]
 }

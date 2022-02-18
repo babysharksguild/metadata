@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "alice"
+            "value": "salopette"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "blue beanie"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "x"
         }
     ]
 }

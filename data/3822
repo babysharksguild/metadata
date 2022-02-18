@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "alice"
+            "value": "salopette"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "wine headband"
+            "value": "carrot hat"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "horizon"
         }
     ]
 }

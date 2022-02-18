@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "tiger"
+            "value": "blue kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "mouse cap"
+            "value": "leopard hat"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "smile"
         }
     ]
 }

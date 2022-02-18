@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "checkered bustier"
+            "value": "pink overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "straw hat"
+            "value": "white hat"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "mischief"
         }
     ]
 }

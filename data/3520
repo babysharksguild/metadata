@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "navy uniform"
+            "value": "leopard vest"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "leopard beret"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "phoneme eh"
         }
     ]
 }

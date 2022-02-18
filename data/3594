@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "angel shirt"
+            "value": "checkered bustier"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "rage"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "weary"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle sweater"
+            "value": "school uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "squid"
+            "value": "happy"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "frowning"
         }
     ]
 }

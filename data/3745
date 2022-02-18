@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black overalls"
+            "value": "hero suit"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "rage"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "phoneme eh"
         }
     ]
 }

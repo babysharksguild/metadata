@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "strawberrty"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "skull"
+            "value": "tulip"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "smile"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown checkered"
+            "value": "argyle vest"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "straw hat"
+            "value": "wine headband"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "hexagon"
         }
     ]
 }

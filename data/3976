@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "alice"
+            "value": "leopard vest"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "maid headband"
+            "value": "pajama cap"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "soul"
         }
     ]
 }

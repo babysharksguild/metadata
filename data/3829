@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue dress"
+            "value": "red sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "shell crown"
+            "value": "sparkling"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "soul"
         }
     ]
 }

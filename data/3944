@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black overalls"
+            "value": "star T"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "pajama cap"
+            "value": "red beret"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "x"
         }
     ]
 }

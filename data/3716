@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink T"
+            "value": "red kinomono"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "leopard hat"
+            "value": "squid"
         },
         {
             "trait_type": "mouth",

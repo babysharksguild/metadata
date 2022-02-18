@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red jersey"
+            "value": "red kinomono"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "black cap"
+            "value": "stripe bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "phoneme o"
         }
     ]
 }

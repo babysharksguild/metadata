@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "turtleneck"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "sparkling"
+            "value": "apple"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "toothpick"
         }
     ]
 }

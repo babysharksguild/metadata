@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "formal sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "pirate hat"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "phoneme eh"
         }
     ]
 }

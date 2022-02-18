@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red kinomono"
+            "value": "navy uniform"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "sunny-side up"
+            "value": "pajama cap"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "white mastache"
         }
     ]
 }

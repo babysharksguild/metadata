@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard vest"
+            "value": "carrot"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "heart crown"
+            "value": "strawberry"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "toothpick"
         }
     ]
 }

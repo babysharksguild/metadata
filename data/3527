@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown cardigan"
+            "value": "blue sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "crab"
+            "value": "sunny-side up"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "mastache"
         }
     ]
 }

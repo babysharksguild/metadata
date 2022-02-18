@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "skull hoodie"
+            "value": "snake neck"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "pink visor"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "hexagon"
         }
     ]
 }

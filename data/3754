@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "yellow kimono"
+            "value": "blue tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "red beanie"
+            "value": "sailor hat"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "zig-zag"
         }
     ]
 }

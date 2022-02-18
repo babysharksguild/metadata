@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue shirt"
+            "value": "blue tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "yellow flower"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",

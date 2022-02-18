@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black vest"
+            "value": "alice"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "black cap"
+            "value": "red origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "horizon"
         }
     ]
 }

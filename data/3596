@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "salopette"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "orange cap"
+            "value": "pink ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "phoneme eh"
         }
     ]
 }

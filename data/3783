@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sleeveless"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "blue ribbon"
+            "value": "coral"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "frustrated"
         }
     ]
 }

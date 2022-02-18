@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white T"
+            "value": "turtleneck"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "rabbit hat"
+            "value": "straw hat"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "phoneme o"
         }
     ]
 }

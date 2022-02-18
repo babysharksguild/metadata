@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown cardigan"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "white hat"
+            "value": "star tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "phoneme eh"
         }
     ]
 }

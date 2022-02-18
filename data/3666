@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink hoodie"
+            "value": "navy uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "panic"
+            "value": "pink visor"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "smirking"
         }
     ]
 }

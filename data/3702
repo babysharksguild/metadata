@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink cardigan"
+            "value": "purple off-shoulder"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "wine headband"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "phoneme o"
         }
     ]
 }

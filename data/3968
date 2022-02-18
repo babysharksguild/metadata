@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue shirt"
+            "value": "black vest"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "bird"
+            "value": "flower crown"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "frowning"
         }
     ]
 }

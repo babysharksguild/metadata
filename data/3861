@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sweater"
+            "value": "brown fur coat"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "brown hat"
+            "value": "white mane"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "smirking"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "navy uniform"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "nursing cap"
+            "value": "checkered headband"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "frowning"
         }
     ]
 }

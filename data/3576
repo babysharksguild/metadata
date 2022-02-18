@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown cardigan"
+            "value": "red jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "star tactile"
+            "value": "yellow flower"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "toothpick"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown cardigan"
+            "value": "pink cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "pink ribbon"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "omega"
         }
     ]
 }

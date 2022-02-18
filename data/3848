@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "formal sweater"
+            "value": "green dress"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "crab"
+            "value": "birdsnest"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "grumpy"
         }
     ]
 }

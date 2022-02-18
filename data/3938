@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue sukajan"
+            "value": "tiger"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "red origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "horizon"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "navy uniform"
+            "value": "snake neck"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "skull"
+            "value": "red origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "hamster"
         }
     ]
 }

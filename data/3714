@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue bandana"
+            "value": "white muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "grin"
         },
         {
             "trait_type": "hat",
-            "value": "blonde regent"
+            "value": "gray bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "mastache"
         }
     ]
 }

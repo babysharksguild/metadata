@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "yellow kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "heart crown"
+            "value": "red mane"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "cheerful"
         }
     ]
 }

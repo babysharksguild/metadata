@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "sailor"
+            "value": "purple sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "white hat"
+            "value": "heart crown"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "mastache"
         }
     ]
 }

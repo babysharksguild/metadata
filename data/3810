@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "turtleneck"
+            "value": "blue stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "grass crown"
+            "value": "wine headband"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "rainbowpuke"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown checkered"
+            "value": "carrot"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "pajama cap"
+            "value": "surprised"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "grumpy"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blouse"
+            "value": "black bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "skull"
+            "value": "chonmage"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "phoneme o"
         }
     ]
 }

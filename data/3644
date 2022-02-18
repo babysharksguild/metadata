@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue dress"
+            "value": "eyes"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "rabbit hat"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "soul"
         }
     ]
 }

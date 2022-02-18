@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "devil shirt"
+            "value": "black vest"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "orange cap"
+            "value": "rabbit hat"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "mischief"
         }
     ]
 }

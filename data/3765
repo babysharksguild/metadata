@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "gray jacket"
+            "value": "white muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "mouse cap"
+            "value": "sparkling"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "zig-zag"
         }
     ]
 }

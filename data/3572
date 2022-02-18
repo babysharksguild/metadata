@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg T"
+            "value": "green dress"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "grass crown"
+            "value": "cherry"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "gold tooth"
         }
     ]
 }

@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "alice"
+            "value": "brown cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "grin"
         },
         {
             "trait_type": "hat",
-            "value": "tulip"
+            "value": "green ribbons"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "mastache"
         }
     ]
 }

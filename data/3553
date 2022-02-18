@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "yellow kimono"
+            "value": "white overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "crab"
+            "value": "white hat"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "mischief"
         }
     ]
 }

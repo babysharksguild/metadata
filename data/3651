@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "checkered headband"
+            "value": "blue origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "soul"
         }
     ]
 }

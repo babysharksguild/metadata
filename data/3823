@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black jersey"
+            "value": " daruma doll"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "crab cap"
+            "value": "gray bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "x"
         }
     ]
 }

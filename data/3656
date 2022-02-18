@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "skull hoodie"
+            "value": "sailor"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "white mane"
+            "value": "red mane"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "mischief"
         }
     ]
 }

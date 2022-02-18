@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue stripes"
+            "value": "snake neck"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "brown hat"
+            "value": "happy"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "hexagon"
         }
     ]
 }

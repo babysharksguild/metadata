@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple sweater"
+            "value": "flower sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "pajama cap"
+            "value": "ribbon headband"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "phoneme o"
         }
     ]
 }

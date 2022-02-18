@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "sailor"
+            "value": "cream vest"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "blue beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "weary"
         }
     ]
 }

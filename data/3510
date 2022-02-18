@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "referee"
+            "value": "formal sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "skull"
+            "value": "red origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "mastache"
         }
     ]
 }

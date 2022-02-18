@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "navy uniform"
+            "value": "leopard vest"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "mouse cap"
+            "value": "crab"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "omega"
         }
     ]
 }

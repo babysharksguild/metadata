@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black vest"
+            "value": "pink hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "apple"
+            "value": "flower crown"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "rainbowpuke"
         }
     ]
 }

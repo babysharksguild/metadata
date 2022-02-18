@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "eyes"
+            "value": "yellow kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "yellow flower"
+            "value": "cute afuro"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "zig-zag"
         }
     ]
 }

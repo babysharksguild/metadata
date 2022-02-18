@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "orange stripes"
+            "value": "gakuran"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "wine headband"
+            "value": "squid"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "weary"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown cardigan"
+            "value": "checkered bustier"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "strawberry"
+            "value": "wine headband"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "rainbowpuke"
         }
     ]
 }

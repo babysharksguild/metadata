@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "black jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "yellow laser"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "brown checkered hat"
+            "value": "black cap"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "rainbowpuke"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "alice"
+            "value": "leopard muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "white laser"
         },
         {
             "trait_type": "hat",
-            "value": "skull"
+            "value": "birdsnest"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "soul"
         }
     ]
 }

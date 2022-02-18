@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "navy uniform"
+            "value": "snake neck"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "ribbon headband"
+            "value": "red origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "phoneme eh"
         }
     ]
 }

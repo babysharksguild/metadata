@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue dress"
+            "value": "blue sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "blue ribbon"
+            "value": "blond mane"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "cheerful"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white muffler"
+            "value": "carrot"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "skull"
+            "value": "coral"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "grumpy"
         }
     ]
 }

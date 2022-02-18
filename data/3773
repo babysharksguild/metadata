@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple sweater"
+            "value": "flower sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "surprised"
+            "value": "sunny-side up"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "phoneme o"
         }
     ]
 }

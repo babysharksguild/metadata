@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sweater"
+            "value": "purple hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "exclamation mark"
+            "value": "green ribbons"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "x"
         }
     ]
 }

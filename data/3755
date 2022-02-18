@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "wine off-shoulder"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "surprised"
+            "value": "black cap"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "toothpick"
         }
     ]
 }

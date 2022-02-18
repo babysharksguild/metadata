@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "tiger"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "frustrated"
         }
     ]
 }

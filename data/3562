@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue dress"
+            "value": "black bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "grin"
         },
         {
             "trait_type": "hat",
-            "value": "yellow flower"
+            "value": "cute afuro"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "gold tooth"
         }
     ]
 }

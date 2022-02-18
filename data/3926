@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "navy uniform"
+            "value": "strawberrty"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "rage"
+            "value": "tulip"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "smirking"
         }
     ]
 }

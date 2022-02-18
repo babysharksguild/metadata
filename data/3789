@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "checkered bustier"
+            "value": "blue dress"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "sailor hat"
+            "value": "surprised"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "tongue"
         }
     ]
 }

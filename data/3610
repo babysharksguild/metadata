@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white T"
+            "value": "leopard muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "carrot hat"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "mischief"
         }
     ]
 }

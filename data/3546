@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown cardigan"
+            "value": "blouse"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "coral"
+            "value": "flower crown"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "phoneme o"
         }
     ]
 }

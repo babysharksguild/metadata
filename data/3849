@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple off-shoulder"
+            "value": "blue dress"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "pink ribbon"
+            "value": "maid headband"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "mastache"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "navy uniform"
+            "value": "pink overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "crab cap"
+            "value": "yellow ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "mastache"
         }
     ]
 }

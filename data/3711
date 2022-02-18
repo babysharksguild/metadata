@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg T"
+            "value": "gakuran"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "leopard hat"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "frowning"
         }
     ]
 }

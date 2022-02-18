@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red jersey"
+            "value": "flower sleeveless"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "marine cap"
+            "value": "Japanese demon"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "rainbowpuke"
         }
     ]
 }

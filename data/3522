@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "yellow kimono"
+            "value": "white T"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "rabbit hat"
+            "value": "frustrated"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "hexagon"
         }
     ]
 }

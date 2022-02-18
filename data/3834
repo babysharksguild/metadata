@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "school uniform"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "leopard hat"
+            "value": "star tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "zig-zag"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bow tie shirt"
+            "value": "blue bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "grass crown"
+            "value": "sailor hat"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "phoneme eh"
         }
     ]
 }

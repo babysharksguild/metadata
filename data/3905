@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "nurse costume"
+            "value": "strawberrty"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "wink"
         },
         {
             "trait_type": "hat",
-            "value": "pajama cap"
+            "value": "yellow flower"
         },
         {
             "trait_type": "mouth",
-            "value": "mastache"
+            "value": "weary"
         }
     ]
 }

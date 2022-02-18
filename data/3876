@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple sweater"
+            "value": "red sukajan"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "glare"
         },
         {
             "trait_type": "hat",
-            "value": "mouse cap"
+            "value": "crab cap"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "phoneme o"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,15 +16,15 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sleeveless"
+            "value": "gakuran"
         },
         {
             "trait_type": "eyes",
-            "value": "excite"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "blonde regent"
+            "value": "shell crown"
         },
         {
             "trait_type": "mouth",

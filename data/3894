@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sweater"
+            "value": "formal sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "apple"
+            "value": "tulip"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "weary"
         }
     ]
 }

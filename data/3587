@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": " daruma doll"
+            "value": "bow tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "bee tactile"
+            "value": "squid"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "hexagon"
         }
     ]
 }

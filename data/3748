@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sweater"
+            "value": "eyes"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "white mane"
+            "value": "straw hat"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "soul"
         }
     ]
 }

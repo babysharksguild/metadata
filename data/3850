@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black overalls"
+            "value": "pink cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "dots"
+            "value": "wild"
         },
         {
             "trait_type": "hat",
-            "value": "brown checkered hat"
+            "value": "ribbon headband"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "phoneme eh"
         }
     ]
 }

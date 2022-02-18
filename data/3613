@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "strawberrty"
+            "value": "pink cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "flower crown"
+            "value": "sunny-side up"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "soul"
         }
     ]
 }

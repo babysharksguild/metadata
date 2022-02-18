@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "navy uniform"
+            "value": "black jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "rest"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "pink visor"
+            "value": "rage"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "toothpick"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown cardigan"
+            "value": "formal sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "x"
         },
         {
             "trait_type": "hat",
-            "value": "rabbit hat"
+            "value": "star tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "frustrated"
         }
     ]
 }

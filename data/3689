@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "strawberrty"
+            "value": "formal sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "flat"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "sunny-side up"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "tongue"
         }
     ]
 }

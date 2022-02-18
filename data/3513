@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "formal sweater"
+            "value": "school uniform"
         },
         {
             "trait_type": "eyes",
-            "value": "party glasses"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "yellow ribbon"
+            "value": "red mane"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "weary"
         }
     ]
 }

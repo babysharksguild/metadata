@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "green dress"
+            "value": "salopette"
         },
         {
             "trait_type": "eyes",
-            "value": "smile"
+            "value": "yellow laser"
         },
         {
             "trait_type": "hat",
-            "value": "chonmage"
+            "value": "blue beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "3"
         }
     ]
 }

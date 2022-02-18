@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red sukajan"
+            "value": "leopard muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "shell crown"
+            "value": "pink visor"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "mischief"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard muffler"
+            "value": "white overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "flat"
         },
         {
             "trait_type": "hat",
-            "value": "pajama cap"
+            "value": "blue origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "x"
         }
     ]
 }

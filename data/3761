@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red kinomono"
+            "value": "leopard muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "skull"
+            "value": "stripe bucket"
         },
         {
             "trait_type": "mouth",
-            "value": "frowning"
+            "value": "soul"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown checkered"
+            "value": "blue kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "leopard beret"
+            "value": "green origami kabuto"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "x"
         }
     ]
 }

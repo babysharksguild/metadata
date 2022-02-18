@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "araisyu"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "salopette"
+            "value": "pink cardigan"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "brown checkered hat"
+            "value": "maid headband"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "hexagon"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blouse"
+            "value": "bow tie shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "grass crown"
+            "value": "frustrated"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "smile"
         }
     ]
 }

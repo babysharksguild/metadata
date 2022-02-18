@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg T"
+            "value": "leopard vest"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "ribbon headband"
+            "value": "carrot hat"
         },
         {
             "trait_type": "mouth",
-            "value": "hamster"
+            "value": "gold tooth"
         }
     ]
 }

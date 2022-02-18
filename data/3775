@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "momo"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "turtleneck"
+            "value": "green fur coat"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "exclamation mark"
+            "value": "checkered headband"
         },
         {
             "trait_type": "mouth",
-            "value": "toothpick"
+            "value": "smirking"
         }
     ]
 }

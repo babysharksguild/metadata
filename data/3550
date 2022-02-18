@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "eyes"
+            "value": "purple sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "excite"
         },
         {
             "trait_type": "hat",
-            "value": "nursing cap"
+            "value": "yellow ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "smile"
+            "value": "omega"
         }
     ]
 }

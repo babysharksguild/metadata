@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle sweater"
+            "value": "orange stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "eyebrows"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "leopard beret"
+            "value": "frustrated"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "omega"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sleeveless"
+            "value": "bsg hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "haert"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "heart crown"
+            "value": "nursing cap"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "3"
         }
     ]
 }

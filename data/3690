@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "plaid shirt"
+            "value": "red kinomono"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "orange cap"
+            "value": "green ribbons"
         },
         {
             "trait_type": "mouth",
-            "value": "white mastache"
+            "value": "zig-zag"
         }
     ]
 }

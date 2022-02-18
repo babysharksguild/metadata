@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink cardigan"
+            "value": "argyle vest"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "happy"
+            "value": "leopard beret"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "mastache"
         }
     ]
 }

@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
@@ -20,15 +20,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "pirate hat"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "omega"
         }
     ]
 }

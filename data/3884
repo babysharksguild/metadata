@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "asagi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple off-shoulder"
+            "value": "turtleneck"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "manga"
         },
         {
             "trait_type": "hat",
-            "value": "chonmage"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "grumpy"
+            "value": "soul"
         }
     ]
 }

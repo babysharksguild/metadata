@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "nadeshiko"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue bandana"
+            "value": "sailor"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "sailor hat"
+            "value": "strawberry"
         },
         {
             "trait_type": "mouth",
-            "value": "x"
+            "value": "frustrated"
         }
     ]
 }

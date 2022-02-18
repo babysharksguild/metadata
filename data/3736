@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "wakatake"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bsg T"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "pink visor"
+            "value": "blue mane"
         },
         {
             "trait_type": "mouth",
-            "value": "weary"
+            "value": "tongue"
         }
     ]
 }

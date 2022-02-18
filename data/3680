@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "white overalls"
+            "value": "carrot"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "yellow ribbon"
+            "value": "tulip"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "frustrated"
         }
     ]
 }

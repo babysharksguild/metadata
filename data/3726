@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black puff-sleeve"
+            "value": "white T"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "star"
         },
         {
             "trait_type": "hat",
-            "value": "wine headband"
+            "value": "pink visor"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "mischief"
         }
     ]
 }

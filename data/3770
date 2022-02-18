@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown fur coat"
+            "value": "white muffler"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "Japanese demon"
+            "value": "bee tactile"
         },
         {
             "trait_type": "mouth",
-            "value": "tongue"
+            "value": "gold tooth"
         }
     ]
 }

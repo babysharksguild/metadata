@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "nae"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "red jersey"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "happy"
+            "value": "grass crown"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "tongue"
         }
     ]
 }

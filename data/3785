@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue bandana"
+            "value": "brown checkered"
         },
         {
             "trait_type": "eyes",
-            "value": "vr goggles"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "red beanie"
+            "value": "rage"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "tongue"
         }
     ]
 }

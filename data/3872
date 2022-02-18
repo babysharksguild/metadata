@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "carrot"
+            "value": "black bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "3D glasses"
         },
         {
             "trait_type": "hat",
-            "value": "frustrated"
+            "value": "skull"
         },
         {
             "trait_type": "mouth",
-            "value": "3"
+            "value": "zig-zag"
         }
     ]
 }

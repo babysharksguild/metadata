@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black vest"
+            "value": "snake neck"
         },
         {
             "trait_type": "eyes",
-            "value": "glare"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "bee tactile"
+            "value": "question mark"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "rainbowpuke"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "akebono"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "red sukajan"
+            "value": "pink hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "brown octagon"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "apple"
+            "value": "devil hornes"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "cheerful"
         }
     ]
 }

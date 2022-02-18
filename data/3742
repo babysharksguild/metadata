@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -20,15 +20,15 @@
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "heart crown"
+            "value": "red beanie"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "grumpy"
         }
     ]
 }

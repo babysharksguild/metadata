@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "Japanese demon"
+            "value": "marine cap"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "x"
         }
     ]
 }

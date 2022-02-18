@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "sohi"
+            "value": "shironezumi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "flower sleeveless"
+            "value": "skull hoodie"
         },
         {
             "trait_type": "eyes",
-            "value": "wild"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "leopard hat"
+            "value": "maid headband"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "gold tooth"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "leopard vest"
+            "value": "turtleneck"
         },
         {
             "trait_type": "eyes",
-            "value": "triple"
+            "value": "dots"
         },
         {
             "trait_type": "hat",
-            "value": "yellow ribbon"
+            "value": "heart crown"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme o"
+            "value": "hamster"
         }
     ]
 }

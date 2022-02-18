@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "shironezumi"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue kimono"
+            "value": "orange stripes"
         },
         {
             "trait_type": "eyes",
-            "value": "wink"
+            "value": "white"
         },
         {
             "trait_type": "hat",
-            "value": "brown checkered hat"
+            "value": "orange cap"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "smirking"
         }
     ]
 }

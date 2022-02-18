@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "tamago"
         },
         {
             "trait_type": "DNA",
@@ -16,7 +16,7 @@
         },
         {
             "trait_type": "clothes",
-            "value": "yellow kimono"
+            "value": "gray jacket"
         },
         {
             "trait_type": "eyes",
@@ -24,11 +24,11 @@
         },
         {
             "trait_type": "hat",
-            "value": "pirate hat"
+            "value": "devil hornes"
         },
         {
             "trait_type": "mouth",
-            "value": "horizon"
+            "value": "weary"
         }
     ]
 }

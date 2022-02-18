@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "alice"
+            "value": "devil shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "admire"
         },
         {
             "trait_type": "hat",
-            "value": "question mark"
+            "value": "leopard beret"
         },
         {
             "trait_type": "mouth",
-            "value": "rainbowpuke"
+            "value": "mischief"
         }
     ]
 }

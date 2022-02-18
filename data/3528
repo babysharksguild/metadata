@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "ouchi"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "sailor"
+            "value": "snake neck"
         },
         {
             "trait_type": "eyes",
-            "value": "manga"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "orange cap"
+            "value": "panic"
         },
         {
             "trait_type": "mouth",
-            "value": "omega"
+            "value": "horizon"
         }
     ]
 }

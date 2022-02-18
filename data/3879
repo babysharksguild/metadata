@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "kamenozoki"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "sora"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "blue tie shirt"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "rest"
         },
         {
             "trait_type": "hat",
-            "value": "surprised"
+            "value": "rage"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "omega"
         }
     ]
 }

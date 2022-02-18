@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "bee"
+            "value": "alice"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "vr goggles"
         },
         {
             "trait_type": "hat",
-            "value": "birdsnest"
+            "value": "brown hat"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "frowning"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "formal sweater"
+            "value": "plaid shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "star"
+            "value": "party glasses"
         },
         {
             "trait_type": "hat",
-            "value": "squid"
+            "value": "skull"
         },
         {
             "trait_type": "mouth",
-            "value": "frustrated"
+            "value": "white mastache"
         }
     ]
 }

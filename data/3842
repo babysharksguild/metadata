@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "rainbow"
+            "value": "mizu"
         },
         {
             "trait_type": "body",
-            "value": "benifuji"
+            "value": "aofuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle vest"
+            "value": "argyle sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "drooping eyes"
+            "value": "smile"
         },
         {
             "trait_type": "hat",
-            "value": "rabbit hat"
+            "value": "crab"
         },
         {
             "trait_type": "mouth",
-            "value": "smirking"
+            "value": "cheerful"
         }
     ]
 }

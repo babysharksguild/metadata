@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "pink x"
+            "value": "kamenozoki"
         },
         {
             "trait_type": "body",
-            "value": "momo"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "hero suit"
+            "value": "black overalls"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "happy"
+            "value": "ribbon headband"
         },
         {
             "trait_type": "mouth",
-            "value": "hexagon"
+            "value": "phoneme eh"
         }
     ]
 }

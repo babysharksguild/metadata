@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "cream"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
-            "value": "asagi"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "argyle sweater"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
-            "value": "grin"
+            "value": "haert"
         },
         {
             "trait_type": "hat",
-            "value": "bad mood"
+            "value": "white mane"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "zig-zag"
         }
     ]
 }

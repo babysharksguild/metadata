@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "ouchi"
         },
         {
             "trait_type": "body",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "wine off-shoulder"
+            "value": "bsg T"
         },
         {
             "trait_type": "eyes",
-            "value": "3D glasses"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "crab cap"
+            "value": "sparkling"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "phoneme eh"
         }
     ]
 }

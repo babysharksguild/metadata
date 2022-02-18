@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "pink cardigan"
+            "value": "red kinomono"
         },
         {
             "trait_type": "eyes",
-            "value": "x"
+            "value": "black glasses"
         },
         {
             "trait_type": "hat",
-            "value": "pirate hat"
+            "value": "heart crown"
         },
         {
             "trait_type": "mouth",
-            "value": "zig-zag"
+            "value": "3"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "nadeshiko"
+            "value": "blue x"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "nae"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "hero suit"
+            "value": "bow tie sweater"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "banana"
+            "value": "nursing cap"
         },
         {
             "trait_type": "mouth",
-            "value": "gold tooth"
+            "value": "tongue"
         }
     ]
 }

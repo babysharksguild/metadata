@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "mizu"
+            "value": "pink x"
         },
         {
             "trait_type": "body",
-            "value": "akebono"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "brown checkered"
+            "value": "blue kimono"
         },
         {
             "trait_type": "eyes",
-            "value": "black glasses"
+            "value": "brown octagon"
         },
         {
             "trait_type": "hat",
-            "value": "happy"
+            "value": "pink visor"
         },
         {
             "trait_type": "mouth",
-            "value": "soul"
+            "value": "3"
         }
     ]
 }

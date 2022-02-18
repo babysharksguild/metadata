@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "blue x"
+            "value": "byakuroku"
         },
         {
             "trait_type": "body",
-            "value": "aofuji"
+            "value": "wakatake"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "black overalls"
+            "value": "blue shirt"
         },
         {
             "trait_type": "eyes",
-            "value": "admire"
+            "value": "triple"
         },
         {
             "trait_type": "hat",
-            "value": "tulip"
+            "value": "yellow ribbon"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "weary"
         }
     ]
 }

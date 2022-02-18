@@ -4,11 +4,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "araisyu"
+            "value": "cream"
         },
         {
             "trait_type": "body",
-            "value": "tamago"
+            "value": "benifuji"
         },
         {
             "trait_type": "DNA",
@@ -16,19 +16,19 @@
         },
         {
             "trait_type": "clothes",
-            "value": "purple sweater"
+            "value": "blue bandana"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "drooping eyes"
         },
         {
             "trait_type": "hat",
-            "value": "blue origami kabuto"
+            "value": "apple"
         },
         {
             "trait_type": "mouth",
-            "value": "phoneme eh"
+            "value": "omega"
         }
     ]
 }
