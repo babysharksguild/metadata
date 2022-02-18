@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4165",
+    "image": "https://metadata.babysharksguild.com/images/4165.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "purple sweater"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star"
+        },
+        {
+            "trait_type": "hat",
+            "value": "carrot hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "cheerful"
+        }
+    ]
+}

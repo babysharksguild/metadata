@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4240",
+    "image": "https://metadata.babysharksguild.com/images/4240.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "byakuroku"
+        },
+        {
+            "trait_type": "body",
+            "value": "aofuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "white T"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "party glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "flower crown"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "grumpy"
+        }
+    ]
+}

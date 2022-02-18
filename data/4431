@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4431",
+    "image": "https://metadata.babysharksguild.com/images/4431.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": " daruma doll"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "white mane"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "phoneme o"
+        }
+    ]
+}

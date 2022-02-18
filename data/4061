@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4061",
+    "image": "https://metadata.babysharksguild.com/images/4061.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "star T"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "red origami kabuto"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "x"
+        }
+    ]
+}

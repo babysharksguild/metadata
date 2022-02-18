@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4100",
+    "image": "https://metadata.babysharksguild.com/images/4100.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "wakatake"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "blue stripes"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "drooping eyes"
+        },
+        {
+            "trait_type": "hat",
+            "value": "crab"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "cheerful"
+        }
+    ]
+}

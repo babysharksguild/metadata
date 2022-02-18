@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4170",
+    "image": "https://metadata.babysharksguild.com/images/4170.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "benifuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "black vest"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "brown octagon"
+        },
+        {
+            "trait_type": "hat",
+            "value": "black cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "omega"
+        }
+    ]
+}

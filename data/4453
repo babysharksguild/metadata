@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4453",
+    "image": "https://metadata.babysharksguild.com/images/4453.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "nadeshiko"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "blue tie shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "eyebrows"
+        },
+        {
+            "trait_type": "hat",
+            "value": "brown checkered hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "weary"
+        }
+    ]
+}

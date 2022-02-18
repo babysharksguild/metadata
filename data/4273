@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4273",
+    "image": "https://metadata.babysharksguild.com/images/4273.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "nadeshiko"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "purple hoodie"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "eyebrows"
+        },
+        {
+            "trait_type": "hat",
+            "value": "skull"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "hamster"
+        }
+    ]
+}

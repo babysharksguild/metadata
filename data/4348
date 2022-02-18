@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4348",
+    "image": "https://metadata.babysharksguild.com/images/4348.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "asagi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "white T"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "3D glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "cute afuro"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "soul"
+        }
+    ]
+}

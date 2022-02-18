@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4338",
+    "image": "https://metadata.babysharksguild.com/images/4338.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "sora"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "star T"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wild"
+        },
+        {
+            "trait_type": "hat",
+            "value": "blonde regent"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smirking"
+        }
+    ]
+}

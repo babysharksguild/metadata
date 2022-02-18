@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4389",
+    "image": "https://metadata.babysharksguild.com/images/4389.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "akebono"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "plaid shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triple"
+        },
+        {
+            "trait_type": "hat",
+            "value": "tulip"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smirking"
+        }
+    ]
+}

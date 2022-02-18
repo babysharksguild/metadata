@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4076",
+    "image": "https://metadata.babysharksguild.com/images/4076.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "school uniform"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "smile"
+        },
+        {
+            "trait_type": "hat",
+            "value": "black regent"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smirking"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4059",
+    "image": "https://metadata.babysharksguild.com/images/4059.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "mizu"
+        },
+        {
+            "trait_type": "body",
+            "value": "sora"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "formal sweater"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "drooping eyes"
+        },
+        {
+            "trait_type": "hat",
+            "value": "yellow flower"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "zig-zag"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4116",
+    "image": "https://metadata.babysharksguild.com/images/4116.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "cream"
+        },
+        {
+            "trait_type": "body",
+            "value": "asagi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "gray jacket"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "drooping eyes"
+        },
+        {
+            "trait_type": "hat",
+            "value": "stripe bucket"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        }
+    ]
+}

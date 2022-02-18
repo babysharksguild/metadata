@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4102",
+    "image": "https://metadata.babysharksguild.com/images/4102.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "sohi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "blue tie shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "bird"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "frustrated"
+        }
+    ]
+}

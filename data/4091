@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4091",
+    "image": "https://metadata.babysharksguild.com/images/4091.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "rainbow"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "black overalls"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "haert"
+        },
+        {
+            "trait_type": "hat",
+            "value": "red beret"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smirking"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4452",
+    "image": "https://metadata.babysharksguild.com/images/4452.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "asagi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "purple off-shoulder"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wink"
+        },
+        {
+            "trait_type": "hat",
+            "value": "sunny-side up"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mischief"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4183",
+    "image": "https://metadata.babysharksguild.com/images/4183.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "blue stripes"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black glasses"
+        },
+        {
+            "trait_type": "hat",
+            "value": "carrot hat"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "weary"
+        }
+    ]
+}

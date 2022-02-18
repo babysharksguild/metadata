@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4007",
+    "image": "https://metadata.babysharksguild.com/images/4007.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "red kinomono"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "green ribbons"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "3"
+        }
+    ]
+}

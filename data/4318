@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4318",
+    "image": "https://metadata.babysharksguild.com/images/4318.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue x"
+        },
+        {
+            "trait_type": "body",
+            "value": "asagi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "black jersey"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wild"
+        },
+        {
+            "trait_type": "hat",
+            "value": "crab"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "soul"
+        }
+    ]
+}

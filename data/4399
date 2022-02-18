@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4399",
+    "image": "https://metadata.babysharksguild.com/images/4399.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "wakatake"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "pink hoodie"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "hat",
+            "value": "tulip"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "phoneme eh"
+        }
+    ]
+}

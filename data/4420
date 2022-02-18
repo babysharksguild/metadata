@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4420",
+    "image": "https://metadata.babysharksguild.com/images/4420.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "ouchi"
+        },
+        {
+            "trait_type": "body",
+            "value": "nae"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bow tie shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "admire"
+        },
+        {
+            "trait_type": "hat",
+            "value": "orange cap"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "tongue"
+        }
+    ]
+}

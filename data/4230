@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4230",
+    "image": "https://metadata.babysharksguild.com/images/4230.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "orange stripes"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "excite"
+        },
+        {
+            "trait_type": "hat",
+            "value": "birdsnest"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "3"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4417",
+    "image": "https://metadata.babysharksguild.com/images/4417.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink x"
+        },
+        {
+            "trait_type": "body",
+            "value": "tamago"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "turtleneck"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "dots"
+        },
+        {
+            "trait_type": "hat",
+            "value": "omelet"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "soul"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4284",
+    "image": "https://metadata.babysharksguild.com/images/4284.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "kamenozoki"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bsg hoodie"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "haert"
+        },
+        {
+            "trait_type": "hat",
+            "value": "apple"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "hexagon"
+        }
+    ]
+}
