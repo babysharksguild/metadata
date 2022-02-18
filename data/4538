@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4538",
+    "image": "https://metadata.babysharksguild.com/images/4538.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "araisyu"
+        },
+        {
+            "trait_type": "body",
+            "value": "momo"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bow tie shirt"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white laser"
+        },
+        {
+            "trait_type": "hat",
+            "value": "devil hornes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "rainbowpuke"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Baby Shark #4619",
+    "image": "https://metadata.babysharksguild.com/images/4619.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "mizu"
+        },
+        {
+            "trait_type": "body",
+            "value": "shironezumi"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "red sukajan"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "x"
+        },
+        {
+            "trait_type": "hat",
+            "value": "apple"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "zig-zag"
+        }
+    ]
+}
