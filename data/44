@@ -4,31 +4,31 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "byakuroku"
+            "value": "rainbow"
         },
         {
             "trait_type": "body",
-            "value": "sora"
+            "value": "sohi"
         },
         {
             "trait_type": "DNA",
-            "value": "Benit0"
+            "value": "shark"
         },
         {
             "trait_type": "clothes",
-            "value": "Crow 197"
+            "value": "black puff-sleeve"
         },
         {
             "trait_type": "eyes",
-            "value": "white"
+            "value": "eyebrows"
         },
         {
             "trait_type": "hat",
-            "value": "Crow 197"
+            "value": "pajama cap"
         },
         {
             "trait_type": "mouth",
-            "value": "mischief"
+            "value": "omega"
         }
     ]
 }
