@@ -1,11 +1,34 @@
 {
-  "description": "This amazing Gif animation was created by **Y.Nagatsuka** in flipbook animation style.",
-  "image": "https://metadata.babysharksguild.com/images/0.gif",
-  "name": "Baby Shark #304",
-  "attributes": [
-    {
-      "trait_type": "STATUS",
-      "value": "Unrevealed"
-    }
-  ]
+    "name": "Baby Shark #304",
+    "image": "https://metadata.babysharksguild.com/images/304.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "mizu"
+        },
+        {
+            "trait_type": "body",
+            "value": "aofuji"
+        },
+        {
+            "trait_type": "DNA",
+            "value": "shark"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "bow tie sweater"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "eyebrows"
+        },
+        {
+            "trait_type": "hat",
+            "value": "red origami kabuto"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        }
+    ]
 }
